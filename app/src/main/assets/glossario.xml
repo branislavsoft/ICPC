@@ -1,0 +1,2133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- New XML document created with EditiX XML Editor (http://www.editix.com) at Thu Sep 01 17:55:26 EEST 2016 -->
+
+<books>
+	<item><key>Abordagem de Custo</key>
+		<string>Técnica de avaliação que reflete o valor que seria exigido atualmente
+			para substituir a capacidade de serviço de um ativo (normalmente
+			referido como o custo de substituição ou reposição).
+
+			Fonte: CPC 46</string></item>
+	<item><key>Abordagem de Mercado</key>
+		<string>Técnica de avaliação que utiliza preços e outras informações relevantes
+			geradas por transações de mercado envolvendo ativos, passivos ou grupo
+			de ativos e passivos idênticos ou comparáveis (ou seja, similares), como,
+			por exemplo, um negócio.
+
+			Fonte: CPC 46</string></item>
+	<item><key>Abordagem de Receita</key>
+		<string>Técnicas de avaliação que convertem valores futuros (por exemplo,
+			fluxos de caixa ou receitas e despesas) em um valor único atual (ou seja,
+			descontado). A mensuração do valor justo é determinada com base no
+			valor indicado pelas expectativas de mercado atuais em relação a esses
+			valores futuros.
+
+			Fonte: CPC 46</string></item>
+	<item><key>Ação Ordinária</key>
+		<string>Ação ordinária é o instrumento patrimonial que está subordinado a todas as outras classes de instrumentos patrimoniais. Para as sociedades com sede no Brasil, deve ser considerada a definição de ação ordinária dada pela Lei das Sociedades por Ações.
+
+			Fonte: CPC 41</string></item>
+	<item><key>Ação Ordinária Potencial</key>
+		<string>Ação ordinária potencial é o instrumento financeiro ou outro contrato que dá ao seu titular o direito a ações ordinárias.
+
+			Fonte: CPC 41</string></item>
+	<item><key>Ações Emissíveis sob Condição</key>
+		<string>Ações emissíveis sob condição (ou ações de emissão contingente) são ações ordinárias emissíveis por pouco ou nenhum dinheiro ou qualquer outra contrapartida após a satisfação das condições especificadas em contrato de emissão contingente de ações.
+
+			Fonte: CPC 41</string></item>
+	<item><key>Ações Put sobre Ações Ordinárias</key>
+		<string>Opções put sobre ações ordinárias são contratos que dão ao seu titular o direito de vender ações ordinárias a um preço especificado durante determinado período.
+
+			Fonte: CPC 41</string></item>
+	<item><key>Acordo com pagamento baseado em Ações</key>
+		<string>Acordo com pagamento baseado em ações é o acordo entre a entidade (ou outra entidade do grupo5 ou qualquer acionista de qualquer entidade do grupo) e a contraparte
+			(incluindo empregado), que confere à contraparte o direito de receber:
+			(a) caixa ou outros ativos da entidade em montantes baseados no preço (ou no
+			valor) dos instrumentos patrimoniais (incluindo ações e opções de ações) da
+			entidade ou de outra entidade do grupo; ou
+			(b) instrumentos patrimoniais (incluindo ações ou opções de ações) da entidade
+			ou de outra entidade do grupo,
+			desde que sejam atendidas condições de aquisição de direito especificadas.
+
+			Fonte: CPC 10 (R1)</string></item>
+	<item><key>Adotante pela Primeira Vez</key>
+		<string>Adotante pela primeira vez é a entidade que apresenta suas primeiras demonstrações
+			contábeis em IFRSs.
+
+			Fonte: CPC 37 (R1)</string></item>
+	<item><key>Adquirente</key>
+		<string>Adquirente é a entidade que obtém o controle da adquirida.
+
+			Fonte: CPC 15 (R1)</string></item>
+	<item><key>Adquirida</key>
+		<string>Adquirida é o negócio ou negócios cujo controle é obtido pelo adquirente por meio de
+			combinação de negócios.
+
+			Fonte: CPC 15 (R1)</string></item>
+	<item><key>Ágio por expectativa de rentabilidade futura (Goodwill)</key>
+		<string>Ágio por expectativa de rentabilidade futura (goodwill) é um ativo que representa
+			benefícios econômicos futuros resultantes de outros ativos adquiridos em uma
+			combinação de negócios, os quais não são individualmente identificados e
+			separadamente reconhecidos.
+
+			Fonte: CPC 15 (R1)</string></item>
+	<item><key>Ajuste de Reclassificação</key>
+		<string>Ajuste de reclassificação é o valor reclassificado para o resultado no período
+			corrente que foi inicialmente reconhecido como outros resultados abrangentes
+			no período corrente ou em período anterior.
+
+			Fonte: CPC 26 (R1)</string></item>
+	<item><key>Altamento Provável</key>
+		<string>Altamente provável significa mais provável que simplesmente provável.
+
+			Fonte: CPC 31</string></item>
+	<item><key>Amortização</key>
+		<string>Amortização é a alocação sistemática do valor amortizável de ativo intangível ao
+			longo da sua vida útil.
+
+			Fonte: CPC 04 (R1)
+
+			Depreciação, amortização e exaustão representam os valores reconhecidos no
+			período e normalmente utilizados para conciliação entre o fluxo de caixa das
+			atividades operacionais e o resultado líquido do exercício.
+
+			Fonte: CPC 09</string></item>
+	<item><key>Antidiluição</key>
+		<string>Antidiluição é o aumento no lucro por ação ou a redução no prejuízo por ação, em decorrência do pressuposto de que os instrumentos conversíveis sejam convertidos, de que as opções ou os bônus de subscrição sejam exercidos ou de que sejam emitidas ações quando da satisfação das condições especificadas.
+
+			Fonte: CPC 41</string></item>
+	<item><key>Aplicação Impraticável</key>
+		<string>Aplicação impraticável de requisito ocorre quando a entidade não pode aplicá-lo depois de ter feito todos os esforços razoáveis nesse sentido. Para um período anterior em particular, é impraticável aplicar retrospectivamente a mudança em política contábil ou fazer a reapresentação retrospectiva para corrigir um erro se:
+			(a) os efeitos da aplicação retrospectiva ou da reapresentação retrospectiva não puderem ser determinados;
+			(b) a aplicação retrospectiva ou a reapresentação retrospectiva exigir premissas baseadas no que teria sido a intenção da Administração naquele momento passado; ou
+			(c) a aplicação retrospectiva ou a reapresentação retrospectiva exigir estimativas significativas de valores e se for impossível identificar objetivamente a informação sobre essas estimativas que:
+			(i) proporciona evidências das circunstâncias que existiam à data em que esses valores deviam ser reconhecidos, mensurados ou divulgados; e
+			(ii) estaria disponível quando as demonstrações contábeis desse período anterior tiveram autorização para divulgação.
+
+			Fonte: CPC 23
+
+			Aplicação impraticável – A aplicação de um requisito é impraticável quando a
+			entidade não pode aplicá-lo depois de ter feito todos os esforços razoáveis nesse
+			sentido.
+
+			Fonte: CPC 26 (R1)</string></item>
+	<item><key>Aplicação Prospectiva</key>
+		<string>Aplicação prospectiva de mudança em política contábil e de reconhecimento do efeito de mudança em estimativa contábil representa, respectivamente:
+			(a) a aplicação da nova política contábil a transações, a outros eventos e a condições que ocorram após a data em que a política é alterada; e
+			(b) o reconhecimento do efeito da mudança na estimativa contábil nos períodos corrente e futuro afetados pela mudança.
+
+			Fonte: CPC 23</string></item>
+	<item><key>Aplicação Retrospectiva</key>
+		<string>Aplicação retrospectiva é a aplicação de nova política contábil a transações, a outros eventos e a condições, como se essa política tivesse sido sempre aplicada.
+
+			Fonte: CPC 23</string></item>
+	<item><key>Aquisição de Direito</key>
+		<string>Aquisição de direito é passar a ter o direito. Conforme acordo com pagamento baseado
+			em ações, o direito de a contraparte receber caixa, outros ativos ou instrumentos
+			patrimoniais da entidade é adquirido quando o direito da contraparte não estiver mais
+			condicionado ao cumprimento de quaisquer condições de aquisição de direito.
+
+			Fonte: CPC 10 (R1)</string></item>
+	<item><key>Arrendamento Mercantil</key>
+		<string>Arrendamento mercantil é um acordo pelo qual o arrendador transmite ao
+			arrendatário em troca de um pagamento ou série de pagamentos o direito de usar
+			um ativo por um período de tempo acordado.
+
+			Fonte: CPC 06 (R1)</string></item>
+	<item><key>Arrendamento Mercantil Financeiro</key>
+		<string>Arrendamento mercantil financeiro é aquele em que há transferência substancial
+			dos riscos e benefícios inerentes à propriedade de um ativo. O título de
+			propriedade pode ou não vir a ser transferido.
+
+			Fonte: CPC 06 (R1)</string></item>
+	<item><key>Arrendamento Mercantil Operacional</key>
+		<string>Arrendamento mercantil operacional é um arrendamento mercantil diferente de
+			um arrendamento mercantil financeiro.
+
+			Fonte: CPC 06 (R1)</string></item>
+	<item><key>Arrendamento Mercantil não cancelável</key>
+		<string>Arrendamento mercantil não cancelável é um arrendamento mercantil que é
+			cancelável apenas:
+			(a) após a ocorrência de alguma contingência remota;
+			(b) com a permissão do arrendador;
+			(c) se o arrendatário contratar um novo arrendamento mercantil para o mesmo
+			ativo ou para um ativo equivalente com o mesmo arrendador; ou
+			(d) após o pagamento pelo arrendatário de uma quantia adicional tal que, no
+			início do arrendamento mercantil, a continuação do arrendamento mercantil
+			seja razoavelmente certa.
+
+			Fonte: CPC 06 (R1)</string></item>
+	<item><key>Assistência Governamental</key>
+		<string>Assistência governamental é a ação de um governo destinada a fornecer benefício
+			econômico específico a uma entidade ou a um grupo de entidades que atendam a
+			critérios estabelecidos. Não inclui os benefícios proporcionados única e
+			indiretamente por meio de ações que afetam as condições comerciais gerais, tais
+			como o fornecimento de infraestruturas em áreas em desenvolvimento ou a
+			imposição de restrições comerciais sobre concorrentes.
+
+			Fonte: CPC 07 (R1)</string></item>
+	<item><key>Atividade Agrícola</key>
+		<string>Atividade agrícola é o gerenciamento da transformação biológica e da colheita de ativos biológicos para venda ou para conversão em produtos agrícolas ou em ativos biológicos adicionais, pela entidade.
+
+			Fonte: CPC 29</string></item>
+	<item><key>Atividades de Financiamento</key>
+		<string>Atividades de financiamento são aquelas que resultam em mudanças no tamanho
+			e na composição do capital próprio e no capital de terceiros da entidade.
+
+			Fonte: CPC 03 (R2)</string></item>
+	<item><key>Atividades de Investimentos</key>
+		<string>Atividades de investimento são as referentes à aquisição e à venda de ativos de
+			longo prazo e de outros investimentos não incluídos nos equivalentes de caixa.
+
+			Fonte: CPC 03 (R2)</string></item>
+	<item><key>Atividades Operacionais</key>
+		<string>Atividades operacionais são as principais atividades geradoras de receita da
+			entidade e outras atividades que não são de investimento e tampouco de
+			financiamento.
+
+			Fonte: CPC 03 (R2)</string></item>
+	<item><key>Atividades Relevantes</key>
+		<string>Atividades relevantes: para os fins deste Pronunciamento, atividades relevantes são atividades
+			da investida que afetam significativamente os retornos da investida.
+
+			Fonte: CPC 36 (R3)</string></item>
+	<item><key>Ativo</key>
+		<string>Ativo é um recurso controlado pela entidade como resultado de eventos
+			passados e do qual se espera que fluam futuros benefícios econômicos para a
+			entidade;
+
+			Fonte: CPC 00
+
+			Ativo é um recurso:
+			(a) controlado pela entidade como resultado de eventos passados; e
+			(b) do qual se espera que resultem benefícios econômicos futuros para a entidade.
+
+			Fonte: CPC 04 (R1)</string></item>
+	<item><key>Ativo Biológico</key>
+		<string>Ativo biológico é um animal e/ou uma planta, vivos.
+
+			Fonte: CPC 29</string></item>
+	<item><key>Ativo Circulante</key>
+		<string>Ativo circulante é o ativo que satisfaz a qualquer um dos seguintes critérios:
+			(a) espera-se que seja realizado, ou pretende-se que seja vendido ou consumido no curso normal do ciclo operacional da entidade;
+			(b) é mantido essencialmente com o propósito de ser negociado;
+			(c) espera-se que seja realizado no período de até doze meses após a data do balanço; ou
+			(d) é caixa ou equivalente de caixa, a menos que sua troca ou seu uso tenha limitações para a liquidação de passivo durante, pelo menos, doze meses após a data do balanço.
+
+			Fonte: CPC 31</string></item>
+	<item><key>Ativo não Circulante</key>
+		<string>Ativo não circulante é um ativo que não satisfaz à definição de ativo circulante.
+
+			Fonte: CPC 31</string></item>
+	<item><key>Ativo Contingente</key>
+		<string>Ativo contingente é um ativo possível que resulta de eventos passados e cuja existência será confirmada apenas pela ocorrência ou não de um ou mais eventos futuros incertos não totalmente sob controle da entidade.
+
+			Fonte: CPC 25</string></item>
+	<item><key>Ativo por Contrato de Seguro</key>
+		<string>Ativo por contrato de seguro é o direito contratual líquido da seguradora de
+			acordo com um contrato de seguro.
+
+			Fonte: CPC 11</string></item>
+	<item><key>Ativo por Contrato de Resseguro</key>
+		<string>Ativos por contrato de resseguro é o direito contratual líquido da cedente em um
+			contrato de resseguro.
+
+			Fonte: CPC 11</string></item>
+	<item><key>Ativos Corporativos</key>
+		<string>Ativos corporativos são ativos, exceto ágio por expectativa de rentabilidade
+			futura (goodwill), que contribuem, mesmo que indiretamente, para os fluxos de
+			caixa futuros tanto da unidade geradora de caixa sob revisão quanto de outras
+			unidades geradoras de caixa.
+
+			Fonte: CPC 01 (R1)</string></item>
+	<item><key>Ativo Financeiro</key>
+		<string>Ativo financeiro é qualquer ativo que seja:
+			(a) caixa;
+			(b) instrumento patrimonial de outra entidade;
+			(c) direito contratual:
+			(i) de receber caixa ou outro ativo financeiro de outra entidade; ou
+			(ii) de troca de ativos financeiros ou passivos financeiros com outra
+			entidade sob condições potencialmente favoráveis para a entidade;
+			(d) um contrato que seja ou possa vir a ser liquidado por instrumentos
+			patrimoniais da própria entidade, e que:
+			(i) não é um derivativo no qual a entidade é ou pode ser obrigada a
+			receber um número variável de instrumentos patrimoniais da própria
+			entidade; ou
+			(ii) um derivativo que será ou poderá ser liquidado de outra forma que
+			não pela troca de um montante fixo de caixa ou outro ativo
+			financeiro, por número fixo de instrumentos patrimoniais da própria
+			entidade. Para esse propósito, os instrumentos patrimoniais da
+			própria entidade não incluem os instrumentos financeiros com opção
+			de venda classificados como instrumentos patrimoniais de acordo
+			com os itens 16A e 16B, os instrumentos que imponham a obrigação
+			a uma entidade de entregar à outra parte um pro rata como parte dos
+			ativos líquidos da entidade apenas na liquidação e são classificados
+			como instrumentos patrimoniais de acordo com os itens 16C e 16D,
+			ou os instrumentos que são contratos para futuro recebimento ou
+			entrega de instrumentos patrimoniais da entidade.
+
+			Fonte: CPC 39</string></item>
+	<item><key>Ativo Fiscal Diferido</key>
+		<string>Ativo fiscal diferido é o valor do tributo sobre o lucro recuperável em período
+			futuro relacionado a:
+			(a) diferenças temporárias dedutíveis;
+			(b) compensação futura de prejuízos fiscais não utilizados; e
+			(c) compensação futura de créditos fiscais não utilizados.
+
+			Fonte: CPC 32</string></item>
+	<item><key>Ativo Imobilizado</key>
+		<string>Ativo imobilizado é o item tangível que:
+			(a) é mantido para uso na produção ou fornecimento de mercadorias ou serviços, para aluguel a outros, ou para fins administrativos; e
+			(b) se espera utilizar por mais de um período.
+			Correspondem aos direitos que tenham por objeto bens corpóreos destinados à manutenção das atividades da entidade ou exercidos com essa finalidade, inclusive os decorrentes de operações que transfiram a ela os benefícios, os riscos e o controle desses bens.
+
+			Fonte: CPC 27</string></item>
+	<item><key>Ativo Intangível</key>
+		<string>Ativo intangível é um ativo não monetário identificável sem substância física.
+
+			Fonte: CPC 04 (R1) e CPC 15 (R1)</string></item>
+	<item><key>Ativo Monetário</key>
+		<string>Ativo monetário é aquele representado por dinheiro ou por direitos a serem
+			recebidos em uma quantia fixa ou determinável de dinheiro.
+
+			Fonte: CPC 04 (R1)</string></item>
+	<item><key>Ativo Qualificável</key>
+		<string>Ativo qualificável é um ativo que, necessariamente, demanda um período de
+			tempo substancial para ficar pronto para seu uso ou venda pretendidos.
+
+			Fonte: CPC 20 (R1)</string></item>
+	<item><key>Ativo Vencido</key>
+		<string>Ativo vencido é quando a contraparte não faz o pagamento contratualmente devido.
+
+			Fonte: CPC 40</string></item>
+	<item><key>Atualização Monetária</key>
+		<string>Atualização monetária é o reconhecimento de ajuste no valor de ativo e passivo
+			da entidade com base em índice de inflação.
+
+			Fonte: CPC 07 (R1)</string></item>
+	<item><key>Balanço Patrimonial de Abertura em IFRSs</key>
+		<string>Balanço patrimonial de abertura em IFRSs é o balanço patrimonial da entidade na data
+			da transição para as IFRSs.
+
+			Fonte: CPC 37 (R1)</string></item>
+	<item><key>Base Fiscal</key>
+		<string>Base fiscal de ativo ou passivo é o valor atribuído àquele ativo ou passivo para
+			fins fiscais.
+
+			Fonte: CPC 32</string></item>
+	<item><key>Benefícios de Curto Prazo a Empregados</key>
+		<string>Benefícios de curto prazo a empregados são benefícios (exceto benefícios rescisórios) que se espera que sejam integralmente liquidados em até doze meses após o período a que se referem as demonstrações contábeis em que os empregados prestarem o respectivo serviço.
+
+			Fonte: CPC 33 (R1)</string></item>
+	<item><key>Benefícios a Empregados</key>
+		<string>Benefícios a empregados são todas as formas de compensação proporcionadas pela entidade em troca de serviços prestados pelos seus empregados ou pela rescisão do contrato de trabalho.
+
+			Fonte: CPC 33 (R1)</string></item>
+	<item><key>Benefícios Garantidos</key>
+		<string>Benefícios garantidos são pagamentos ou outros benefícios em relação aos quais
+			um determinado segurado ou investidor tem direito incondicional que não está
+			sujeito à discricionariedade contratual do emitente.
+
+			Fonte: CPC 11</string></item>
+	<item><key>Benefícios pós-Emprego</key>
+		<string>Benefícios pós-emprego são os benefícios a empregados (exceto benefícios rescisórios e benefícios de curto prazo a empregados), que serão pagos após o período de emprego.
+
+			Fonte: CPC 33 (R1)</string></item>
+	<item><key>Benefícios Recisórios</key>
+		<string>Benefícios rescisórios são benefícios aos empregados fornecidos pela rescisão do contrato de trabalho de empregado como resultado de:
+			(a) decisão da entidade terminar o vínculo empregatício do empregado antes da data normal de aposentadoria; ou
+			(b) decisão do empregado de aceitar uma oferta de benefícios em troca da rescisão do contrato de trabalho.
+
+			Fonte: CPC 33 (R1)</string></item>
+	<item><key>Caixa</key>
+		<string>Caixa compreende numerário em espécie e depósitos bancários disponíveis.
+
+			Fonte: CPC 03 (R2)</string></item>
+	<item><key>Característica da Concessão Automática</key>
+		<string>Característica de concessão automática é a característica que proporciona a outorga
+			automática de opções de ações adicionais, sempre que o detentor das opções exercer as
+			opções, previamente outorgadas, usando as ações da entidade em vez de caixa para pagar
+			o preço de exercício.
+
+			Fonte: CPC 10 (R1)</string></item>
+	<item><key>Característica de Participação Discricionária</key>
+		<string>Característica de participação discricionária é um direito contratual de receber,
+			como suplemento de benefícios garantidos, benefícios adicionais:
+			(a) que provavelmente serão parte significativa da totalidade dos benefícios
+			contratuais;
+			(b) cujo valor ou tempestividade dependa contratualmente de decisão do
+			emitente; e
+			(c) que se baseiem contratualmente:
+			(i) no desempenho de um conjunto de contratos específico ou de um
+			tipo de contrato específico;
+			(ii) nos retornos de investimento, realizados ou não, de um conjunto
+			específico de ativos mantidos pelo emitente; ou
+			(iii) nos resultados de sociedade, fundo ou outra entidade que emita o
+			contrato.
+
+			Fonte: CPC 11</string></item>
+	<item><key>Cedente</key>
+		<string>Cedente é o segurado em um contrato de resseguro.
+
+			Fonte: CPC 11</string></item>
+	<item><key>Colheita</key>
+		<string>Colheita é a extração do produto de ativo biológico ou a cessação da vida desse ativo biológico.
+
+			Fonte: CPC 29</string></item>
+	<item><key>Coligada</key>
+		<string>Coligada é a entidade sobre a qual o investidor tem influência significativa.
+
+			Fonte: CPC 18 (R2)</string></item>
+	<item><key>Combinação de Negócios</key>
+		<string>Combinação de negócios é uma operação ou outro evento por meio do qual um
+			adquirente obtém o controle de um ou mais negócios, independentemente da forma
+			jurídica da operação. Neste Pronunciamento, o termo abrange também as fusões que se
+			dão entre partes independentes (inclusive as conhecidas por true mergers ou merger of
+			equals).
+
+			Fonte: CPC 15 (R1)</string></item>
+	<item><key>Começo do Prazo do Arrendamento Mercantil</key>
+		<string>Começo do prazo do arrendamento mercantil é a data a partir da qual o
+			arrendatário passa a poder exercer o seu direito de usar o ativo arrendado. É a
+			data do reconhecimento inicial do arrendamento mercantil (isto é, o reconhecimento dos ativos, passivos, receita ou despesas resultantes do
+			arrendamento mercantil, conforme for apropriado).
+
+			Fonte: CPC 06 (R1)</string></item>
+	<item><key>Componente de Depósito</key>
+		<string>Componente de depósito é o componente contratual que não é contabilizado como
+			instrumento financeiro derivativo e que estaria no âmbito do Pronunciamento
+			Técnico CPC 14 – Instrumento Financeiro se fosse um instrumento separado.
+
+			Fonte: CPC 11</string></item>
+	<item><key>Componente de uma Entidade</key>
+		<string>Componente de uma entidade é a operação e o fluxo de caixa que podem ser claramente distinguidos, operacionalmente e para fins de demonstrações contábeis, do resto da entidade.
+
+			Fonte: CPC 31</string></item>
+	<item><key>Compromisso Firme de Compra</key>
+		<string>Compromisso firme de compra é um acordo com uma parte não relacionada, vinculando ambas as partes e geralmente com vínculo jurídico, que (a) especifica todos os termos significativos, incluindo o preço e o cronograma da transação, e (b) inclui uma penalidade por não desempenho, que é suficientemente grande para tornar o desempenho altamente provável.
+
+			Fonte: CPC 31</string></item>
+	<item><key>Condição de Mercado</key>
+		<string>Condição de mercado é a meta de desempenho sob a qual o preço de exercício, a aquisição de
+			direito (vesting) ou a exercibilidade do instrumento patrimonial dependem, estando
+			relacionada com o preço (ou valor) de mercado dos instrumentos patrimoniais da entidade (ou
+			instrumentos patrimoniais de outra entidade do mesmo grupo), como, por exemplo:
+			(a) atingir um preço de ação especificado, ou atingir um montante especificado de valor
+			intrínseco da opção de ação; ou
+			(b) alcançar a meta especificada que seja baseada no preço (ou valor) de mercado dos
+			instrumentos patrimoniais da entidade (ou instrumentos patrimoniais de outra entidade do
+			mesmo grupo) em relação a algum índice de preços de mercado de instrumentos
+			patrimoniais de outras entidades.
+			A condição de mercado exige que a contraparte complete um período específico de serviço
+			(ou seja, condição de serviço); o requisito de serviço pode ser explícito ou implícito.
+
+			Fonte: CPC 10 (R1)</string></item>
+	<item><key>Condições de Aquisição de Direito</key>
+		<string>Condições de aquisição de direito são as condições que determinam se a entidade recebe os serviços que habilitam a contraparte a receber caixa, outros ativos ou instrumentos patrimoniais da entidade, por força de acordo com pagamento baseado em ações. As condições de aquisição de direito são condições de serviço ou são condições de desempenho.
+
+			Fonte: CPC 10 (R1)</string></item>
+	<item><key>Condição de Serviço</key>
+		<string>Condição de serviço é a condição de aquisição que exige que a contraparte complete um
+			período específico de serviço durante o qual os serviços são prestados à entidade. Se a
+			contraparte, independentemente da razão, deixar de prestar o serviço durante o período de
+			aquisição, ela não foi capaz de satisfazer a condição. A condição de serviço não requer que a
+			meta de desempenho seja cumprida.
+
+			Fonte: CPC 10 (R1)</string></item>
+	<item><key>Contabilização em Separado</key>
+		<string>Contabilização em separado significa contabilizar os componentes de um
+			contrato como se fossem contratos separados.
+
+			Fonte: CPC 11</string></item>
+	<item><key>Contraprestação Contingente</key>
+		<string>Contraprestação contingente são obrigações contratuais, assumidas pelo adquirente na
+			operação de combinação de negócios, de transferir ativos adicionais ou participações
+			societárias adicionais aos ex-proprietários da adquirida, caso certos eventos futuros
+			ocorram ou determinadas condições sejam satisfeitas. Contudo, uma contraprestação
+			contingente também pode dar ao adquirente o direito de reaver parte da contraprestação
+			previamente transferida ou paga, caso determinadas condições sejam satisfeitas.
+
+			Fonte: CPC 15 (R1)</string></item>
+	<item><key>Contrato de Construção</key>
+		<string>Contrato de construção é um contrato especificamente negociado para a construção de um ativo ou de uma combinação de ativos que estejam diretamente interrelacionados ou interdependentes em função da sua concepção, tecnologia e função ou do seu propósito ou uso final.
+
+			Fonte: CPC 17 (R1)</string></item>
+	<item><key>Contrato de Custo mais margem</key>
+		<string>Contrato de custo mais margem (cost plus) é um contrato de construção segundo o qual a entidade contratada (fornecedora dos serviços) deve ser reembolsada por custos projetados e aprovados pelas partes - ou de outra forma definidos – acrescido de percentual sobre tais custos ou por remuneração fixa pré-determinada.
+
+			Fonte: CPC 17 (R1)</string></item>
+	<item><key>Contrato de Emissão Contingente de Ações</key>
+		<string>Contrato de emissão contingente de ações (ou acordo de ações contingente) é um acordo para emitir ações que esteja dependente da satisfação de condições especificadas.
+
+			Fonte: CPC 41</string></item>
+	<item><key>Contrato Oneroso</key>
+		<string>Contrato oneroso é um contrato em que os custos inevitáveis de satisfazer as obrigações do contrato excedem os benefícios econômicos que se esperam sejam recebidos ao longo do mesmo contrato.
+
+			Fonte: CPC 25</string></item>
+	<item><key>Contrato de Preço Fixo</key>
+		<string>Contrato de preço fixo (fixed price) é um contrato de construção segundo o qual a entidade contratada (fornecedora dos serviços) concorda com o preço pré-fixado ou com a taxa pré-fixada, por unidade concluída que, em alguns casos, está sujeito às cláusulas de custos escalonados (cost escalation clauses).
+
+			Fonte: CPC 17 (R1)</string></item>
+	<item><key>Contrato de Seguro</key>
+		<string>Contrato de seguro é um contrato segundo o qual uma parte (a seguradora) aceita
+			um risco de seguro significativo de outra parte (o segurado), aceitando indenizar o
+			segurado no caso de um evento específico, futuro e incerto (evento segurado)
+			afetar adversamente o segurado.
+
+			Fonte: CPC 11</string></item>
+	<item><key>Contrato de Seguro Direto</key>
+		<string>Contrato de seguro direto é um contrato de seguro que não seja um contrato de
+			resseguro.
+
+			Fonte: CPC 11</string></item>
+	<item><key>Contrato de Resseguro</key>
+		<string>Contrato de resseguro é um contrato de seguro emitido pela seguradora (a
+			resseguradora) para indenizar outra seguradora (a cedente) por perdas resultantes
+			de um ou mais contratos emitidos pela cedente.
+
+			Fonte: CPC 11</string></item>
+	<item><key>Controlada</key>
+		<string>Controlada é a entidade que é controlada por outra entidade.
+
+			Fonte: CPC 36 (R3)</string></item>
+	<item><key>Controladora</key>
+		<string>Controladora é uma entidade que controla uma ou mais controladas.
+
+			Fonte: CPC 36 (R3)</string></item>
+	<item><key>Controle Conjunto</key>
+		<string>Controle conjunto é o compartilhamento, contratualmente convencionado, do controle de negócio, que existe somente quando decisões sobre as atividades relevantes exigem o consentimento unânime das partes que compartilham o controle.
+
+			Fonte: CPC 18 (R2)
+
+			Compartilhamento, contratualmente convencionado, do controle de
+			negócio, que existe somente quando decisões sobre as atividades
+			relevantes exigem o consentimento unânime das partes que
+			compartilham o controle.
+
+			Fonte: CPC 19 (R2)</string></item>
+	<item><key>Controle de Investida</key>
+		<string>Controle de investida: um investidor controla a investida quando está exposto a, ou tem direitos
+			sobre, retornos variáveis decorrentes de seu envolvimento com a investida e tem a capacidade de
+			afetar esses retornos por meio de seu poder sobre a investida.
+
+			Fonte: CPC 36 (R2)</string></item>
+	<item><key>Critérios Contábeis Anteriores</key>
+		<string>Critérios contábeis anteriores são a base contábil que uma adotante pela primeira vez
+			utilizava imediatamente antes de adotar as IFRSs.
+
+			Fonte: CPC 37 (R1)</string></item>
+	<item><key>Custo</key>
+		<string>Custo é o montante de caixa ou equivalente de caixa pago ou o valor justo de
+			qualquer outra contraprestação dada para adquirir um ativo na data da sua
+			aquisição ou construção, ou ainda, se for o caso, o valor atribuído ao ativo
+			quando inicialmente reconhecido de acordo com as disposições específicas de
+			outro Pronunciamento como, por exemplo, o Pronunciamento Técnico CPC 10 –
+			Pagamento Baseado em Ações.
+
+			Fonte: CPC 04 (R1)
+
+			Custo é o montante de caixa ou equivalente de caixa pago ou o valor justo de qualquer outro recurso dado para adquirir um ativo na data da sua aquisição ou construção, ou ainda, se for o caso, o valor atribuído ao ativo quando inicialmente reconhecido de acordo com as disposições específicas de outros Pronunciamentos, como, por exemplo, o Pronunciamento Técnico CPC 10 – Pagamento Baseado em Ações.
+
+			Fonte: CPC 27
+
+			Custo é o montante de caixa ou equivalentes de caixa pago ou o valor justo de outra contraprestação dada para adquirir um ativo no momento da sua aquisição ou construção ou, quando aplicável, o montante atribuído àquele ativo quando inicialmente reconhecido em consonância com requerimentos específicos de outros Pronunciamentos, por exemplo, Pronunciamento Técnico CPC 10 – Pagamento Baseado em Ações.
+
+			Fonte: CPC 28</string></item>
+	<item><key>Custo Atribuído</key>
+		<string>Custo atribuído é o montante utilizado como substituto para o custo (ou o custo
+			depreciado ou amortizado) em determinada data. Nas depreciações e amortizações
+			subsequentes é admitida a presunção de que a entidade tenha inicialmente reconhecido o
+			ativo ou o passivo na determinada data por um custo igual ao custo atribuído.
+
+			Fonte: CPC 37 (R1)</string></item>
+	<item><key>Custo de Transporte</key>
+		<string>Custos que seriam incorridos para transportar um ativo de seu local atual
+			para o seu mercado principal (ou mais vantajoso).
+
+			Fonte: CPC 46</string></item>
+	<item><key>Custos Diretos Iniciais</key>
+		<string>Custos diretos iniciais são custos incrementais que são diretamente atribuíveis à
+			negociação e estruturação de um arrendamento mercantil, exceto os custos
+			incorridos pelos arrendadores fabricantes ou comerciantes.
+
+			Fonte: CPC 06 (R1)</string></item>
+	<item><key>Custos de Empréstimos</key>
+		<string>Custos de empréstimos são juros e outros custos que a entidade incorre em
+			conexão com o empréstimo de recursos.
+
+			Fonte: CPC 20 (R1)</string></item>
+	<item><key>Custos de Transação</key>
+		<string>Custos de transação são somente aqueles incorridos e diretamente atribuíveis
+			às atividades necessárias exclusivamente à consecução das transações citadas
+			no item 2. São, por natureza, gastos incrementais, já que não existiriam ou
+			teriam sido evitados se essas transações não ocorressem. Exemplos de custos
+			de transação são: i) gastos com elaboração de prospectos e relatórios; ii)
+			remuneração de serviços profissionais de terceiros (advogados, contadores,
+			auditores, consultores, profissionais de bancos de investimento, corretores
+			etc.); iii) gastos com publicidade (inclusive os incorridos nos processos de
+			road-shows); iv) taxas e comissões; v) custos de transferência; vi) custos de
+			registro etc. Custos de transação não incluem ágios ou deságios na emissão
+			dos títulos e valores mobiliários, despesas financeiras, custos internos
+			administrativos ou custos de carregamento.
+
+			Fonte: CPC 08 (R1)
+
+			Custos para vender um ativo ou transferir um passivo no mercado
+			principal (ou mais vantajoso) para o ativo ou passivo que sejam
+			diretamente atribuíveis à venda do ativo ou à transferência do passivo e
+			que atendam ambos os seguintes critérios:
+			(a) resultem diretamente da transação e sejam essenciais para ela;
+			(b) não teriam sido incorridos pela entidade se a decisão de vender o
+			ativo ou de transferir o passivo não tivesse sido tomada (similares
+			aos custos para vender, conforme definido no Pronunciamento CPC
+			31).
+
+			Fonte: CPC 46</string></item>
+	<item><key>Dados (inputs) observáveis</key>
+		<string>Informações (inputs) que são desenvolvidas utilizando-se dados de
+			mercado, tais como informações disponíveis publicamente sobre eventos
+			ou transações reais, e que refletem as premissas que participantes do
+			mercado utilizariam ao precificar o ativo ou o passivo.
+
+			Fonte: CPC 46</string></item>
+	<item><key>Dados (inputs) não observáveis</key>
+		<string>Informações (inputs) em relação às quais não há dados de mercado
+			disponíveis e as quais são desenvolvidas utilizando-se as melhores
+			informações disponíveis sobre as premissas que seriam utilizadas pelos
+			participantes do mercado ao precificar o ativo ou o passivo.
+
+			Fonte: CPC 46</string></item>
+	<item><key>Data de Aquisição</key>
+		<string>Data de aquisição de uma combinação de negócios é a data em que a adquirente
+			obtém efetivamente o controle sobre a adquirida.
+
+			Fonte: CPC 15 (R1)</string></item>
+	<item><key>Data da Mensuração</key>
+		<string>Data da mensuração é a data na qual o valor justo dos instrumentos patrimoniais
+			outorgados é mensurado para os propósitos deste Pronunciamento Técnico. Para
+			transações com empregados e outros provedores de serviços similares, a data da
+			mensuração é a data da outorga. Para transações com outras partes que não sejam
+			empregados (e com aqueles que prestam serviços similares), a data da mensuração é a
+			data em que a entidade obtém os produtos ou em que a contraparte presta o serviço.
+
+			Fonte: CPC 10 (R1)</string></item>
+	<item><key>Data da Outorga</key>
+		<string>Data da outorga é a data na qual a entidade e a contraparte (incluindo empregado)
+			firmam um acordo com pagamento baseado em ações, ou seja, quando a entidade e a
+			contraparte têm um entendimento compartilhado dos termos e condições do acordo. Na
+			data da outorga, a entidade confere à contraparte o direito de receber caixa, outros ativos
+			ou instrumentos patrimoniais da entidade, desde que condições de aquisição de direito
+			especificadas, caso existentes, sejam cumpridas. Se o acordo estiver sujeito a um
+			processo de aprovação (por exemplo, pelos acionistas), a data da outorga será a data em
+			que a aprovação for obtida.
+
+			Fonte: CPC 10 (R1)</string></item>
+	<item><key>Data de Transição para as IFRSs</key>
+		<string>Data de transição para as IFRSs é o início do primeiro período para o qual a entidade
+			apresenta informação comparativa completa pelas IFRSs em suas primeiras
+			demonstrações contábeis em IFRSs.
+
+			Fonte: CPC 37 (R1)</string></item>
+	<item><key>Demonstração Contábil Intermediária</key>
+		<string>Demonstração contábil intermediária significa uma demonstração contábil
+			contendo um conjunto completo de demonstrações contábeis (assim como
+			descrito no Pronunciamento Técnico CPC 26 – Apresentação das
+			Demonstrações Contábeis) ou um conjunto de demonstrações contábeis
+			condensadas (assim como descrito neste Pronunciamento) de período
+			intermediário.
+
+			Fonte: CPC 21 (R1)</string></item>
+	<item><key>Demonstrações Consolidadas</key>
+		<string>Demonstrações consolidadas são as demonstrações contábeis de um grupo econômico, em que ativos, passivos, patrimônio líquido, receitas, despesas e fluxos de caixa da controladora e de suas controladas são apresentados como se fossem uma única entidade econômica.
+
+			Fonte: CPC 18 (R2)
+
+			Demonstrações consolidadas são as demonstrações contábeis de um grupo por meio das quais
+			os ativos, passivos, patrimônio líquido, receitas, despesas e fluxos de caixa da sociedade
+			controladora e de suas controladas são apresentados como se fossem uma única entidade
+			econômica.
+
+			Fonte: CPC 35 (R2)
+
+			Demonstrações consolidadas são as demonstrações contábeis de grupo econômico, em que os
+			ativos, passivos, patrimônio líquido, receitas, despesas e fluxos de caixa da controladora e de
+			suas controladas são apresentados como se fossem uma única entidade econômica.
+
+			Fonte: CPC 36 (R3)</string></item>
+	<item><key>Demonstrações Contábeis de Propósito Geral</key>
+		<string>Demonstrações contábeis de propósito geral (referidas simplesmente como
+			demonstrações contábeis) são aquelas cujo propósito reside no atendimento das
+			necessidades informacionais de usuários externos que não se encontram em
+			condições de requerer relatórios especificamente planejados para atender às suas
+			necessidades peculiares.
+
+			Fonte: CPC 26 (R1)</string></item>
+	<item><key>Demonstrações Separadas</key>
+		<string>Demonstrações separadas são aquelas apresentadas por uma entidade, na qual a entidade
+			pode eleger, sujeitos aos requisitos deste Pronunciamento, os investimentos em controlada,
+			em empreendimento controlado em conjunto e em coligada para contabilizar ao custo, de
+			acordo com o Pronunciamento Técnico CPC 38 – Instrumentos Financeiros: Reconhecimento
+			e Mensuração, ou usando o método da equivalência patrimonial, conforme descrito no
+			Pronunciamento Técnico CPC 18 – Investimento em Coligada, em Controlada e em
+			Empreendimento Controlado em Conjunto. (Definição alterada pela Revisão CPC 07)
+
+			Fonte: CPC 35 (R2)</string></item>
+	<item><key>Depreciação</key>
+		<string>Depreciação, amortização e exaustão é a alocação sistemática do valor
+			depreciável, amortizável e exaurível de ativos durante sua vida útil.
+
+			Fonte: CPC 01 (R1)
+
+			Depreciação, amortização e exaustão representam os valores reconhecidos no
+			período e normalmente utilizados para conciliação entre o fluxo de caixa das
+			atividades operacionais e o resultado líquido do exercício.
+
+			Fonte: CPC 09
+
+			Depreciação é a alocação sistemática do valor depreciável de um ativo ao longo da sua vida útil.
+
+			Fonte: CPC 27</string></item>
+	<item><key>Desenvolvimento</key>
+		<string>Desenvolvimento é a aplicação dos resultados da pesquisa ou de outros
+			conhecimentos em um plano ou projeto visando à produção de materiais,
+			dispositivos, produtos, processos, sistemas ou serviços novos ou
+			substancialmente aprimorados, antes do início da sua produção comercial ou do
+			seu uso.
+
+			Fonte: CPC 04 (R1)</string></item>
+	<item><key>Despesas Financeiras</key>
+		<string>Despesas financeiras são os custos ou as despesas que representam o ônus
+			pago ou a pagar como remuneração direta do recurso tomado emprestado do
+			financiador derivado dos fatores tempo, risco, inflação, câmbio, índice
+			específico de variação de preços e assemelhados; incluem, portanto, os juros,
+			a atualização monetária, a variação cambial etc., mas não incluem taxas,
+			descontos, prêmios, despesas administrativas, honorários etc.
+
+			Fonte: CPC 08 (R1)</string></item>
+	<item><key>Despesa Tributária</key>
+		<string>Despesa tributária (receita tributária) é o valor total incluído na determinação do
+			lucro ou prejuízo para o período relacionado com o tributo sobre o lucro corrente
+			ou diferido.
+
+			Fonte: CPC 32</string></item>
+	<item><key>Despesa de Venda</key>
+		<string>Despesa de venda é a despesa incremental diretamente atribuível à alienação de ativo ou grupo de ativos mantido para venda, excluindo despesa financeira e tributo sobre o lucro.
+
+			Fonte: CPC 31
+
+			Despesa de venda são despesas incrementais diretamente atribuíveis à venda de ativo, exceto despesas financeiras e tributos sobre o lucro.
+
+			Fonte: CPC 29</string></item>
+	<item><key>Despesas de Venda ou de Baixa</key>
+		<string>Despesas de venda ou de baixa são despesas incrementais diretamente atribuíveis
+			à venda ou à baixa de um ativo ou de uma unidade geradora de caixa, excluindo
+			as despesas financeiras e de impostos sobre o resultado gerado.
+
+			Fonte: CPC 01 (R1)</string></item>
+	<item><key>Diferença Temporária</key>
+		<string>Diferença temporária é a diferença entre o valor contábil de ativo ou passivo no
+			balanço e sua base fiscal. As diferenças temporárias podem ser tanto:
+			(a) diferença temporária tributável, a qual é a diferença temporária que resulta
+			em valores tributáveis para determinar o lucro tributável (prejuízo fiscal) de
+			períodos futuros quando o valor contábil de ativo ou passivo é recuperado ou
+			liquidado; ou
+			(b) diferença temporária dedutível, a qual é a diferença temporária que resulta
+			em valores que são dedutíveis para determinar o lucro tributável (prejuízo
+			fiscal) de futuros períodos quando o valor contábil do ativo ou passivo é
+			recuperado ou liquidado.
+
+			Fonte: CPC 32</string></item>
+	<item><key>Diluição</key>
+		<string>Diluição é a redução no lucro por ação ou o aumento no prejuízo por ação resultante do pressuposto de que os instrumentos conversíveis sejam convertidos, de que as opções ou os bônus de subscrição sejam exercidos ou de que sejam emitidas ações após satisfação das condições especificadas.
+
+			Fonte: CPC 41</string></item>
+	<item><key>Direitos de Destituição</key>
+		<string>Direitos de destituição são direitos de privar o tomador de decisões de sua autoridade de tomada
+			de decisões.
+
+			Fonte: CPC 36 (R3)</string></item>
+	<item><key>Direitos de Proteção</key>
+		<string>Direitos de proteção são direitos destinados a proteger o interesse da parte que os detém, sem
+			dar a essa parte poder sobre a entidade à qual esses direitos se referem.
+
+			Fonte: CPC 36 (R3)</string></item>
+	<item><key>Elemento Garantido</key>
+		<string>Elemento garantido é a obrigação de pagar benefícios garantidos, incluída em um
+			contrato que contém uma característica de participação discricionária.
+
+			Fonte: CPC 11</string></item>
+	<item><key>Empreendimento Controlado em Conjunto (Joint Venture)</key>
+		<string>Empreendimento controlado em conjunto (joint venture) é um acordo conjunto por meio do qual as partes, que detêm o controle em conjunto do acordo contratual, têm direitos sobre os ativos líquidos desse acordo.
+
+			Fonte: CPC 18 (R2)
+
+			Negócio em conjunto segundo o qual as partes que detêm o controle
+			conjunto do negócio têm direitos sobre os ativos líquidos do negócio
+			em conjunto.
+
+			Fonte: CPC 19 (R2)</string></item>
+	<item><key>Empregados</key>
+		<string>Empregados e outros provedores de serviços similares são indivíduos que prestam
+			serviços personalizados à entidade e também (a) são considerados como empregados
+			para fins legais ou tributários, ou (b) trabalham para a entidade sob sua direção, da
+			mesma forma que os indivíduos que são considerados como empregados para fins legais
+			ou tributários, ou (c) cujos serviços prestados são similares àqueles prestados pelos
+			empregados. Por exemplo, o termo abrange todo o pessoal da administração, isto é,
+			aquelas pessoas que têm autoridade e responsabilidade para planejamento, direção e
+			controle das atividades da entidade, incluindo diretores não executivos.
+
+			Fonte: CPC 10 (R1)</string></item>
+	<item><key>Empréstimo Subsidiário</key>
+		<string>Empréstimo subsidiado é aquele em que o credor renuncia ao recebimento total
+			ou parcial do empréstimo e/ou dos juros, mediante o cumprimento de
+			determinadas condições. De maneira geral, é concedido direta ou indiretamente
+			pelo Governo, com ou sem a intermediação de um banco; está vinculado a um
+			tributo; e caracteriza-se pela utilização de taxas de juros visivelmente abaixo do
+			mercado e/ou pela postergação parcial ou total do pagamento do referido tributo
+			sem ônus ou com ônus visivelmente abaixo do normalmente praticado pelo
+			mercado. Subsídio em empréstimo é a parcela do empréstimo ou do juro
+			renunciado e a diferença entre o juro ou ônus de mercado e o juro ou o ônus
+			praticado.
+
+			Fonte: CPC 07 (R1)</string></item>
+	<item><key>Empréstimos a Pagar</key>
+		<string>Empréstimos a pagar são passivos financeiros que não sejam contas a pagar comerciais de curto
+			prazo, sob prazos normais de crédito.
+
+			Fonte: CPC 40</string></item>
+	<item><key>Encargos Financeiros</key>
+		<string>Encargos financeiros são a soma das despesas financeiras, dos custos de
+			transação, prêmios, descontos, ágios, deságios e assemelhados, a qual
+			representa a diferença entre os valores recebidos e os valores pagos (ou a
+			pagar) a terceiros.
+
+			Fonte: CPC 08 (R1)</string></item>
+	<item><key>Entidade Estruturada</key>
+		<string>A entidade que tenha sido designada de modo que os direitos de voto ou similares não sejam o fator dominante ao decidir quem controla a entidade, como, por exemplo, quando quaisquer direitos de voto referem-se somente a tarefas administrativas e as atividades relevantes são dirigidas por meio de acordos contratuais.
+
+			Fonte: CPC 45</string></item>
+	<item><key>Entidade no Exterior</key>
+		<string>Entidade no exterior é uma entidade que pode ser controlada, coligada,
+			empreendimento controlado em conjunto ou filial, sucursal ou agência de uma
+			entidade que reporta informação, por meio da qual são desenvolvidas atividades
+			que estão baseadas ou são conduzidas em um país ou em moeda diferente
+			daquelas da entidade que reporta a informação.
+
+			CPC 02 (R2)</string></item>
+	<item><key>Entidade de Investimento</key>
+		<string>Entidade de investimento é a entidade que:
+
+			(a) obtém recursos de um ou mais investidores com o intuito de prestar a esses investidores
+			serviços de gestão de investimento;
+
+			(b) se compromete com os seus investidores no sentido de que seu propósito comercial é
+			investir recursos exclusivamente para retornos de valorização do capital, receitas de
+			investimentos ou ambos; e
+
+			(c) mensura e avalia o desempenho de substancialmente todos os seus investimentos com
+			base no valor justo.
+
+			Fonte: CPC 36 (R3)</string></item>
+	<item><key>Entidade de Mútuo</key>
+		<string>Entidade de mútuo é uma entidade, exceto aquela cuja propriedade integral é de um
+			investidor, que gera distribuição de resultados, custos baixos ou outros benefícios
+			econômicos diretamente para seus proprietários, membros ou participantes (tal como
+			uma entidade de seguros mútuos, associação ou uma cooperativa).
+
+			Fonte: CPC 15 (R1)</string></item>
+	<item><key>Entidade Relacionada com o Estado</key>
+		<string>Entidade relacionada com o Estado é a entidade que é controlada, de modo pleno
+			ou em conjunto, ou sofre influência significativa do Estado.
+
+			Fonte: CPC 05 (R1)</string></item>
+	<item><key>Equivalentes de Caixa</key>
+		<string>Equivalentes de caixa são aplicações financeiras de curto prazo, de alta liquidez,
+			que são prontamente conversíveis em montante conhecido de caixa e que estão
+			sujeitas a um insignificante risco de mudança de valor.
+
+			Fonte: CPC 03 (R2)</string></item>
+	<item><key>Erros de Períodos Anteriores</key>
+		<string>Erros de períodos anteriores são omissões e incorreções nas demonstrações contábeis da entidade de um ou mais períodos anteriores decorrentes da falta de uso, ou uso incorreto, de informação confiável que:
+			(a) estava disponível quando da autorização para divulgação das demonstrações contábeis desses períodos; e
+			(b) pudesse ter sido razoavelmente obtida e levada em consideração na elaboração e na apresentação dessas demonstrações contábeis.
+			Tais erros incluem os efeitos de erros matemáticos, erros na aplicação de políticas contábeis, descuidos ou interpretações incorretas de fatos e fraudes.
+
+			Fonte: CPC 23</string></item>
+	<item><key>Estado</key>
+		<string>Estado refere-se ao governo no seu sentido lato, agências de governo e
+			organizações similares, sejam elas municipais, estaduais, federais, nacionais ou
+			internacionais.
+
+			Fonte: CPC 05 (R1)</string></item>
+	<item><key>Estoques</key>
+		<string>Estoques são ativos:
+			(a) mantidos para venda no curso normal dos negócios;
+			(b) em processo de produção para venda; ou
+			(c) na forma de materiais ou suprimentos a serem consumidos ou transformados no
+			processo de produção ou na prestação de serviços.
+
+			Fonte: CPC 16 (R1)</string></item>
+	<item><key>Evento que Cria Obrigação</key>
+		<string>Evento que cria obrigação é um evento que cria uma obrigação legal ou não formalizada que faça com que a entidade não tenha nenhuma alternativa realista senão liquidar essa obrigação.
+
+			Fonte: CPC 25</string></item>
+	<item><key>Evento Segurado</key>
+		<string>Evento segurado é o acontecimento futuro e incerto, coberto por um contrato de
+			seguro e que cria um risco de seguro.
+
+			Fonte: CPC 11</string></item>
+	<item><key>Evento Subsequente</key>
+		<string>Evento subsequente ao período a que se referem as demonstrações contábeis é aquele evento, favorável ou desfavorável, que ocorre entre a data final do período a que se referem as demonstrações contábeis e a data na qual é autorizada a emissão dessas demonstrações. Dois tipos de eventos podem ser identificados:
+			(a) os que evidenciam condições que já existiam na data final do período a que se referem as demonstrações contábeis (evento subsequente ao período contábil a que se referem as demonstrações que originam ajustes);
+			(b) os que são indicadores de condições que surgiram subsequentemente ao período contábil a que se referem as demonstrações contábeis (evento subsequente ao período contábil a que se referem as demonstrações que não originam ajustes).
+
+			Fonte: CPC 24</string></item>
+	<item><key>Exaustão</key>
+		<string>Depreciação, amortização e exaustão é a alocação sistemática do valor
+			depreciável, amortizável e exaurível de ativos durante sua vida útil.
+
+			Fonte: CPC 01 (R1)
+
+			Depreciação, amortização e exaustão representam os valores reconhecidos no
+			período e normalmente utilizados para conciliação entre o fluxo de caixa das
+			atividades operacionais e o resultado líquido do exercício.
+
+			Fonte: CPC 09</string></item>
+	<item><key>Fluxo de Caixa Esperado</key>
+		<string>Média ponderada por probabilidade (ou seja, a média da distribuição) de
+			possíveis fluxos de caixa futuros.
+
+			Fonte: CPC 46</string></item>
+	<item><key>Fluxos de Caixa</key>
+		<string>Fluxos de caixa são as entradas e saídas de caixa e equivalentes de caixa.
+
+			Fonte: CPC 03 (R2)</string></item>
+	<item><key>Goodwill</key>
+		<string>Ágio por expectativa de rentabilidade futura (goodwill) é um ativo que representa
+			benefícios econômicos futuros resultantes de outros ativos adquiridos em uma
+			combinação de negócios, os quais não são individualmente identificados e
+			separadamente reconhecidos.
+
+			Fonte: CPC 15 (R1)</string></item>
+	<item><key>Governo</key>
+		<string>Governo refere-se a Governo federal, estadual ou municipal, agências
+			governamentais e órgãos semelhantes, sejam locais, nacionais ou internacionais.
+
+			Fonte: CPC 07 (R1)</string></item>
+	<item><key>Grupo de Ativos Biológicos</key>
+		<string>Grupo de ativos biológicos é um conjunto de animais ou plantas vivos semelhantes.
+
+			Fonte: CPC 29</string></item>
+	<item><key>Grupo de Ativos mantidos para Venda</key>
+		<string>Grupo de ativos mantido para venda (colocado à venda) é um grupo de ativos a ser alienado, por venda ou de outra forma, em conjunto como um grupo de ativos em uma só transação, e passivos diretamente associados a esses ativos que serão transferidos na transação. O grupo de ativos inclui ágio por expectativa de rentabilidade futura (goodwill) adquirido em combinação de negócios se o grupo de ativos for uma unidade geradora de caixa à qual tenha sido alocado ágio (goodwill) de acordo com os requisitos dos itens 77 a 83 do Pronunciamento Técnico CPC 01 - Redução ao Valor Recuperável de Ativos ou se for uma operação dentro dessa unidade geradora de caixa.
+
+			Fonte: CPC 31</string></item>
+	<item><key>Grupo Econômico</key>
+		<string>Grupo econômico é uma entidade controladora e todas as suas controladas.
+
+			Fonte: CPC 02 (R2)
+
+			Grupo econômico é a controladora e todas as suas controladas.
+
+			Fonte: CPC 36 (R3)</string></item>
+	<item><key>Identificável</key>
+		<string>Identificável: um ativo é identificável quando ele: (a) for separável, ou seja, capaz de ser
+			separado ou dividido da entidade e vendido, transferido, licenciado, alugado ou trocado,
+			individualmente ou em conjunto com outros ativos e passivos ou contrato relacionado,
+			independentemente da intenção da entidade em fazê-lo; ou (b) surge de um contrato ou
+			de outro direito legal, independentemente de esse direito ser transferível ou separável da
+			entidade e de outros direitos e obrigações.
+
+			Fonte: CPC 15 (R1)</string></item>
+	<item><key>IFRSs</key>
+		<string>Normas Internacionais de Contabilidade (IFRSs) são normas e interpretações adotadas
+			pelo IASB (International Accounting Standards Board) e elas compreendem as
+			International Financial Reporting Standards (IFRSs) emitidas pelo IASB, as
+			International Accounting Standards (IASs) emitidas pelo seu antecessor, o IASC
+			(International Accounting Standards Committee) e as Interpretações desenvolvidas pelo
+			IFRIC (International Financial Reporting Interpretations Committee) e pelo seu
+			antecessor, o SIC (Standing Interpretations Committee).
+
+			Fonte: CPC 37 (R1)</string></item>
+	<item><key>Incorreção Material</key>
+		<string>Omissão material ou incorreção material é a omissão ou a informação incorreta que puder, individual ou coletivamente, influenciar as decisões econômicas que os usuários das demonstrações contábeis tomam com base nessas demonstrações. A materialidade depende da dimensão e da natureza da omissão ou da informação incorreta julgada à luz das circunstâncias às quais está sujeita. A dimensão ou a natureza do item, ou a combinação de ambas, pode ser o fator determinante.
+
+			Fonte: CPC 23</string></item>
+	<item><key>Influência Significativa</key>
+		<string>Influência significativa é o poder de participar das decisões sobre políticas financeiras e operacionais de uma investida, mas sem que haja o controle individual ou conjunto dessas políticas.
+
+			Fonte: CPC 18 (R2)</string></item>
+	<item><key>Informações (inputs)</key>
+		<string>Premissas que seriam utilizadas por participantes do mercado ao
+			precificar o ativo ou o passivo, incluindo premissas sobre risco, como,
+			por exemplo:
+			(a) risco inerente a uma técnica de avaliação específica utilizada para
+			mensurar o valor justo (por exemplo, um modelo de precificação); e
+			(b) risco inerente às informações da técnica de avaliação.
+			Informações podem ser observáveis ou não observáveis.
+
+			Fonte: CPC 46</string></item>
+	<item><key>Início do Arrendamento Mercantil</key>
+		<string>Início do arrendamento mercantil é a mais antiga entre a data do acordo de
+			arrendamento mercantil e a data de um compromisso assumido pelas partes
+			quanto às principais disposições do arrendamento mercantil. Nessa data:
+			(a) um arrendamento mercantil deve ser classificado como arrendamento
+			mercantil financeiro ou arrendamento mercantil operacional; e
+			(b) no caso de arrendamento mercantil financeiro, as quantias a reconhecer no
+			começo do prazo do arrendamento mercantil são determinadas.
+
+			Fonte: CPC 06 (R1)</string></item>
+	<item><key>Instrumento com Opção de Venda</key>
+		<string>Instrumento com opção de venda é um instrumento financeiro que dá ao seu
+			detentor o direito de retornar o instrumento ao emissor por caixa, ou outro ativo financeiro, ou retornar automaticamente ao emissor no caso de evento futuro
+			incerto, morte ou aposentadoria do detentor do instrumento.
+
+			Fonte: CPC 39</string></item>
+	<item><key>Instrumento Financeiro</key>
+		<string> Instrumento financeiro é qualquer contrato que dê origem a um ativo financeiro
+			para a entidade e a um passivo financeiro ou instrumento patrimonial para outra
+			entidade.
+
+			Fonte: CPC 39</string></item>
+	<item><key>Instrumento Patrimonial</key>
+		<string>Instrumento patrimonial é um contrato que evidencia um interesse residual nos ativos da
+			entidade após a dedução de todos os seus passivos, como é o caso de ação ordinária.
+
+			Fonte: CPC 10 (R1)
+
+			Instrumento patrimonial é qualquer contrato que evidencie uma participação nos
+			ativos de uma entidade após a dedução de todos os seus passivos.
+
+			Fonte: CPC 39</string></item>
+	<item><key>Instrumento Patrimonial Outorgado</key>
+		<string>Instrumento patrimonial outorgado é o direito (condicional ou incondicional) a um
+			instrumento patrimonial da entidade, conferido pela entidade a outra parte mediante
+			acordo com pagamento baseado em ações.
+
+			Fonte: CPC 10 (R1)</string></item>
+	<item><key>Insumo Adquirido de Terceiros</key>
+		<string>Insumo adquirido de terceiros representa os valores relativos às aquisições de
+			matérias-primas, mercadorias, materiais, energia, serviços, etc. que tenham sido
+			transformados em despesas do período. Enquanto permanecerem nos estoques, não
+			compõem a formação da riqueza criada e distribuída.
+
+			Fonte: CPC 09</string></item>
+	<item><key>Investidor Conjunto (joint venturer)</key>
+		<string>Investidor conjunto (joint venturer) é uma parte de um empreendimento controlado em conjunto (joint venture) que tem o controle conjunto desse empreendimento.
+
+			Fonte: CPC 18 (R2)</string></item>
+	<item><key>Investimento Bruto no Arrendamento Mercantil</key>
+		<string>Investimento bruto no arrendamento mercantil é a soma:
+			(a) dos pagamentos mínimos do arrendamento mercantil a receber pelo
+			arrendador segundo um arrendamento mercantil financeiro; e
+			(b) de qualquer valor residual não garantido atribuído ao arrendador.
+
+			Fonte: CPC 06 (R1)</string></item>
+	<item><key>Investimento Líquido no Arrendamento Mercantil</key>
+		<string>Investimento líquido no arrendamento mercantil é o investimento bruto no
+			arrendamento mercantil descontado à taxa de juros implícita no arrendamento
+			mercantil.
+
+			Fonte: CPC 06 (R1)</string></item>
+	<item><key>Investimento Líquido em Entidade no Exterior</key>
+		<string>Investimento líquido em entidade no exterior é o montante que representa o
+			interesse (participação na maior parte das vezes) da entidade que reporta a
+			informação nos ativos líquidos dessa entidade.
+
+			CPC 02 (R2)</string></item>
+	<item><key>Isenção Tributária</key>
+		<string>Isenção tributária é a dispensa legal do pagamento de tributo sob quaisquer
+			formas jurídicas (isenção, imunidade, etc.). Redução, por sua vez, exclui somente
+			parte do passivo tributário, restando, ainda, parcela de imposto a pagar. A
+			redução ou a isenção pode se processar, eventualmente, por meio de devolução
+			do imposto recolhido mediante determinadas condições.
+
+			Fonte: CPC 07 (R1)</string></item>
+	<item><key>Itens Monetários</key>
+		<string>Itens monetários são unidades de moeda mantidas em caixa e ativos e passivos a
+			serem recebidos ou pagos em um número fixo ou determinado de unidades de
+			moeda.
+
+			Fonte: CPC 02 (R2)</string></item>
+	<item><key>Joint Operation</key>
+		<string>Negócio em conjunto segundo o qual as partes que detêm o controle
+			conjunto do negócio têm direitos sobre os ativos e obrigações pelos
+			passivos relacionados ao negócio.
+
+			Fonte: CPC 19 (R2)</string></item>
+	<item><key>Joint Operator</key>
+		<string>Parte integrante de operação em conjunto que detém o controle
+			conjunto dessa operação em conjunto.
+
+			Fonte: CPC 19 (R2)</string></item>
+	<item><key>Joint Venture</key>
+		<string>Empreendimento controlado em conjunto (joint venture) é um acordo conjunto por meio do qual as partes, que detêm o controle em conjunto do acordo contratual, têm direitos sobre os ativos líquidos desse acordo.
+
+			Fonte: CPC 18 (R2)
+
+			Negócio em conjunto segundo o qual as partes que detêm o controle
+			conjunto do negócio têm direitos sobre os ativos líquidos do negócio
+			em conjunto.
+
+			Fonte: CPC 19 (R2)</string></item>
+	<item><key>Joint Venturer</key>
+		<string>Investidor conjunto (joint venturer) é uma parte de um empreendimento controlado em conjunto (joint venture) que tem o controle conjunto desse empreendimento.
+
+			Fonte: CPC 18 (R2)
+
+			Parte integrante de empreendimento controlado em conjunto (joint
+			venture) que detém o controle conjunto desse empreendimento.
+
+			Fonte: CPC 19 (R2)</string></item>
+	<item><key>Juro</key>
+		<string>Juro é a remuneração auferida ou incorrida por recurso aplicado ou captado pela
+			entidade.
+
+			Fonte: CPC 07 (R1)</string></item>
+	<item><key>Lucro Tributável</key>
+		<string>Lucro tributável (prejuízo fiscal) é o lucro (prejuízo) para um período,
+			determinado de acordo com as regras estabelecidas pelas autoridades tributárias,
+			sobre o qual os tributos sobre o lucro são devidos (recuperáveis).
+
+			Fonte: CPC 32</string></item>
+	<item><key>Melhor Uso</key>
+		<string>Uso de um ativo não financeiro por participantes do mercado que
+			maximizaria o valor do ativo ou o grupo de ativos e passivos (por
+			exemplo, um negócio) dentro do qual o ativo seria utilizado.
+
+			Fonte: CPC 46</string></item>
+	<item><key>Membros Próximos da Família de uma Pessoa</key>
+		<string>Membros próximos da família de uma pessoa são aqueles membros da família
+			dos quais se pode esperar que exerçam influência ou sejam influenciados pela
+			pessoa nos negócios desses membros com a entidade e incluem:
+			(a) os filhos da pessoa, cônjuge ou companheiro(a);
+			(b) os filhos do cônjuge da pessoa ou de companheiro(a); e
+			(c) dependentes da pessoa, de seu cônjuge ou companheiro(a).
+
+			Fonte: CPC 05 (R1)</string></item>
+	<item><key>Mercado Ativo</key>
+		<string>Mercado no qual transações para o ativo ou passivo ocorrem com
+			frequência e volume suficientes para fornecer informações de
+			precificação de forma contínua.
+
+			Fonte: CPC 46</string></item>
+	<item><key>Mercado Principal</key>
+		<string>Mercado com o maior volume e nível de atividade para o ativo ou
+			passivo.
+
+			Fonte: CPC 46</string></item>
+	<item><key>Mercado mais Vantajoso</key>
+		<string>Mercado que maximiza o valor que seria recebido para vender o ativo ou
+			que minimiza o valor que seria pago para transferir o passivo, após levar
+			em consideração os custos de transação e os custos de transporte.
+
+			Fonte: CPC 46</string></item>
+	<item><key>Meta de Desempenho</key>
+		<string>Meta de desempenho é a condição de aquisição que exige que:
+			(a) a contraparte complete um período específico de serviço (ou seja, condição de serviço); o
+			requisito de serviço pode ser explícito ou implícito; e
+			(b) a meta específica de desempenho a ser cumprida, enquanto a contraparte está prestando o
+			serviço exigido em (a).
+			O período de cumprimento da meta de desempenho:
+			(a) não deve se estender além do fim do período de serviço; e
+			(b) pode começar antes do período de serviço desde que a data de início da meta de
+			desempenho não seja substancialmente antes do início do período de serviço.
+			A meta de desempenho é definida tendo por referência:
+			(a) operações (ou atividades) próprias da entidade ou operações ou atividades de outra
+			entidade do mesmo grupo (ou seja, condição de não mercado); ou
+			(b) o preço (ou valor) dos instrumentos patrimoniais da entidade ou instrumentos patrimoniais
+			de outra entidade do mesmo grupo (incluindo ações e opções de ações) (ou seja, condição
+			de mercado).
+			A meta de desempenho pode estar relacionada tanto ao desempenho da entidade como um
+			todo ou parte da entidade (ou parte do grupo), tal como uma divisão ou um empregado
+			individual.
+
+			Fonte: CPC 10 (R1)</string></item>
+	<item><key>Método de Equivalência Patrimonial</key>
+		<string>Método da equivalência patrimonial é o método de contabilização por meio do qual o investimento é inicialmente reconhecido pelo custo e, a partir daí, é ajustado para refletir a alteração pós-aquisição na participação do investidor sobre os ativos líquidos da investida. As receitas ou as despesas do investidor incluem sua participação nos lucros ou prejuízos da investida, e os outros resultados abrangentes do investidor incluem a sua participação em outros resultados abrangentes da investida.
+
+			Fonte: CPC 18 (R2)</string></item>
+	<item><key>Método de Juros Efetivos</key>
+		<string>Método de juros efetivos é o método de calcular o custo amortizado de ativo
+			financeiro ou de passivo financeiro (ou grupo de ativos ou de passivos
+			financeiros) e de alocar a receita ou a despesa de juros no período. A taxa
+			efetiva de juros é a taxa que desconta exatamente os pagamentos ou
+			recebimentos de caixa futuros estimados durante a vida esperada do
+			instrumento ou, quando apropriado, o período mais curto na quantia
+			escriturada líquida do ativo financeiro ou do passivo financeiro. Ao calcular a
+			taxa efetiva de juros, a entidade deve estimar os fluxos de caixa considerando
+			todos os termos contratuais do instrumento financeiro (por exemplo,
+			pagamento antecipado, opções de compra e semelhantes), mas não deve
+			considerar perdas de crédito futuras. O cálculo deve incluir todas as comissões
+			e parcelas pagas ou recebidas entre as partes do contrato, as quais são parte
+			integrante da taxa efetiva de juros (ver o Pronunciamento Técnico CPC 30 -
+			Receitas), dos custos de transação e de todos os outros prêmios ou descontos.
+			Existe um pressuposto de que os fluxos de caixa e a vida esperada de grupo de
+			instrumentos financeiros semelhantes possam ser estimados confiavelmente.
+			Contudo, naqueles casos raros em que não seja possível estimar
+			confiavelmente os fluxos de caixa ou a vida esperada de instrumento
+			financeiro (ou grupo de instrumentos financeiros), a entidade deve usar os
+			fluxos de caixa contratuais durante todo o prazo contratual do instrumento
+			financeiro (ou grupo de instrumentos financeiros).
+
+			Fonte: CPC 08 (R1)</string></item>
+	<item><key>Moeda de Apresentação</key>
+		<string>Moeda de apresentação é a moeda na qual as demonstrações contábeis são
+			apresentadas.
+
+			Fonte: CPC 02 (R2)</string></item>
+	<item><key>Moeda Estrangeira</key>
+		<string>Moeda estrangeira é qualquer moeda diferente da moeda funcional da entidade.
+
+			CPC 02 (R2)</string></item>
+	<item><key>Moeda Funcional</key>
+		<string>Moeda funcional é a moeda do ambiente econômico principal no qual a entidade
+			opera.
+
+			Fonte: CPC 02 (R2)</string></item>
+	<item><key>Montante Recuperável</key>
+		<string>Montante recuperável é o valor mais alto entre o valor justo de um ativo menos as despesas de venda e o seu valor de uso.
+
+			Fonte: CPC 31</string></item>
+	<item><key>Mudança na Estimativa Contábil</key>
+		<string>Mudança na estimativa contábil é um ajuste nos saldos contábeis de ativo ou de passivo, ou nos montantes relativos ao consumo periódico de ativo, que decorre da avaliação da situação atual e das obrigações e dos benefícios futuros esperados associados aos ativos e passivos. As alterações nas estimativas contábeis decorrem de nova informação ou inovações e, portanto, não são retificações de erros.
+
+			Fonte: CPC 23</string></item>
+	<item><key>Negócio</key>
+		<string>Negócio é um conjunto integrado de atividades e ativos capaz de ser conduzido e
+			gerenciado para gerar retorno, na forma de dividendos, redução de custos ou outros
+			benefícios econômicos, diretamente a seus investidores ou outros proprietários,
+			membros ou participantes.
+
+			Fonte: CPC 15 (R1)</string></item>
+	<item><key>Negócio em Conjunto</key>
+		<string>Negócio em conjunto é um negócio do qual duas ou mais partes têm controle conjunto.
+
+			Fonte: CPC 18 (R2)
+
+			Acordo segundo o qual duas ou mais partes têm o controle conjunto.
+
+			Fonte: CPC 19 (R2)</string></item>
+	<item><key>non-performance</key>
+		<string>Risco de que a entidade não cumprirá uma obrigação. O risco de
+			descumprimento (non-performance) inclui, entre outros, o risco de
+			crédito próprio da entidade.
+
+			Fonte: CPC 46</string></item>
+	<item><key>Normas Internacionais de Contabilidade (IFRSs)</key>
+		<string>Normas Internacionais de Contabilidade (IFRSs) são normas e interpretações adotadas
+			pelo IASB (International Accounting Standards Board) e elas compreendem as
+			International Financial Reporting Standards (IFRSs) emitidas pelo IASB, as
+			International Accounting Standards (IASs) emitidas pelo seu antecessor, o IASC
+			(International Accounting Standards Committee) e as Interpretações desenvolvidas pelo
+			IFRIC (International Financial Reporting Interpretations Committee) e pelo seu
+			antecessor, o SIC (Standing Interpretations Committee).
+
+			Fonte: CPC 37 (R1)</string></item>
+	<item><key>Notas Explicativas</key>
+		<string>Notas explicativas contêm informação adicional em relação à apresentada nas
+			demonstrações contábeis. As notas explicativas oferecem descrições narrativas ou segregações e aberturas de itens divulgados nessas demonstrações e
+			informação acerca de itens que não se enquadram nos critérios de
+			reconhecimento nas demonstrações contábeis.
+
+			Fonte: CPC 26 (R1)</string></item>
+	<item><key>Obrigação não Formalizada</key>
+		<string>Obrigação não formalizada é uma obrigação que decorre das ações da entidade em que:
+			(a) por via de padrão estabelecido de práticas passadas, de políticas publicadas ou de declaração atual suficientemente específica, a entidade tenha indicado a outras partes que aceitará certas responsabilidades; e
+			(b) em consequência, a entidade cria uma expectativa válida nessas outras partes de que cumprirá com essas responsabilidades.
+
+			Fonte: CPC 25</string></item>
+	<item><key>Obrigação Legal</key>
+		<string>Obrigação legal é uma obrigação que deriva de:
+			(a) contrato (por meio de termos explícitos ou implícitos);
+			(b) legislação; ou
+			(c) outra ação da lei.
+
+			Fonte: CPC 25</string></item>
+	<item><key>Omissão Material</key>
+		<string>Omissão material ou incorreção material é a omissão ou a informação incorreta que puder, individual ou coletivamente, influenciar as decisões econômicas que os usuários das demonstrações contábeis tomam com base nessas demonstrações. A materialidade depende da dimensão e da natureza da omissão ou da informação incorreta julgada à luz das circunstâncias às quais está sujeita. A dimensão ou a natureza do item, ou a combinação de ambas, pode ser o fator determinante.
+
+			Fonte: CPC 23
+
+			Omissão material ou divulgação distorcida material – As omissões ou
+			divulgações distorcidas são materiais se puderem, individual ou coletivamente,
+			influenciar as decisões econômicas que os usuários das demonstrações contábeis
+			tomam com base nessas demonstrações. A materialidade depende do tamanho e
+			da natureza da omissão ou da divulgação distorcida, julgada à luz das
+			circunstâncias que a rodeiam. O tamanho ou a natureza do item, ou combinação
+			de ambos, pode ser o fator determinante para a definição da materialidade.
+
+			Avaliar se a omissão ou a divulgação distorcida pode influenciar a decisão
+			econômica do usuário das demonstrações contábeis, e nesse caso, se são
+			materiais, requer que sejam levadas em consideração as características desses
+			usuários. A Estrutura Conceitual para Elaboração e Divulgação de Relatório
+			Contábil-Financeiro, contida no Pronunciamento Conceitual Básico do Comitê
+			de Pronunciamentos Contábeis, assim se manifesta no item QC 32: “Relatórios
+			contábil-financeiros são elaborados para usuários que têm conhecimento
+			razoável de negócios e de atividades econômicas e que revisem e analisem a
+			informação diligentemente” . Dessa forma, a avaliação deve levar em conta
+			como se espera que os usuários, com seus respectivos atributos, sejam
+			influenciados na tomada de decisão econômica.
+
+			Fonte: CPC 26 (R1)</string></item>
+	<item><key>Opção, Bonus de Subscrição e seus Equivalentes</key>
+		<string>Opção, bônus de subscrição e seus equivalentes são instrumentos financeiros que dão ao titular o direito de adquirir ações.
+
+			Fonte: CPC 41</string></item>
+	<item><key>Opção de Ações</key>
+		<string>Opção de ações é um contrato que confere ao seu detentor o direito, porém não a
+			obrigação, de subscrever as ações da entidade a um preço fixo ou determinável, por um
+			período de tempo especificado.
+
+			Fonte: CPC 10 (R1)</string></item>
+	<item><key>Opção de Concessão Automática</key>
+		<string>Opção de concessão automática é a nova opção de ações outorgada quando a ação é
+			utilizada para pagar o preço de exercício da opção de ações anterior.
+
+			Fonte: CPC 10 (R1)</string></item>
+	<item><key>Operação em Conjunto (Joint Operation)</key>
+		<string>Negócio em conjunto segundo o qual as partes que detêm o controle
+			conjunto do negócio têm direitos sobre os ativos e obrigações pelos
+			passivos relacionados ao negócio.
+
+			Fonte: CPC 19 (R2)</string></item>
+	<item><key>Operação Descontinuada</key>
+		<string>Operação descontinuada é o componente da entidade que tenha sido alienado ou esteja classificado como mantido para venda e:
+			(a) representa uma importante linha separada de negócios ou área geográfica de operações;
+			(b) é parte integrante de um único plano coordenado para vender uma importante linha separada de negócios ou área geográfica de operações; ou
+			(c) é uma controlada adquirida exclusivamente com o objetivo de revenda.
+
+			Fonte: CPC 31</string></item>
+	<item><key>Operador em Conjunto (Joint Operator)</key>
+		<string>Parte integrante de operação em conjunto que detém o controle
+			conjunto dessa operação em conjunto.
+
+			Fonte: CPC 19 (R2)</string></item>
+	<item><key>Outras Receitas</key>
+		<string>Outras receitas representam os valores que sejam oriundos, principalmente, de
+			baixas por alienação de ativos não-circulantes, tais como resultados na venda de
+			imobilizado, de investimentos, e outras transações incluídas na demonstração do
+			resultado do exercício que não configuram reconhecimento de transferência à
+			entidade de riqueza criada por outras entidades.
+			Diferentemente dos critérios contábeis, também incluem valores que não transitam
+			pela demonstração do resultado, como, por exemplo, aqueles relativos à construção
+			de ativos para uso próprio da entidade (conforme item 19) e aos juros pagos ou
+			creditados que tenham sido incorporados aos valores dos ativos de longo prazo
+			(normalmente, imobilizados).
+			No caso de estoques de longa maturação, os juros a eles incorporados deverão ser
+			destacados como distribuição da riqueza no momento em que os respectivos
+			estoques forem baixados; dessa forma, não há que se considerar esse valor como
+			outras receitas.
+
+			Fonte: CPC 09</string></item>
+	<item><key>Outros Benefícios de Longo Prazo a Empregados</key>
+		<string>Outros benefícios de longo prazo aos empregados são todos os benefícios aos empregados que não benefícios de curto prazo aos empregados, benefícios pós-emprego e benefícios rescisórios.
+
+			Fonte: CPC 33 (R1)</string></item>
+	<item><key>Outros Resultados Abrangentes</key>
+		<string>Outros resultados abrangentes compreendem itens de receita e despesa
+			(incluindo ajustes de reclassificação) que não são reconhecidos na demonstração
+			do resultado como requerido ou permitido pelos Pronunciamentos,
+			Interpretações e Orientações emitidos pelo CPC. Os componentes dos outros
+			resultados abrangentes incluem:
+			(a) variações na reserva de reavaliação, quando permitidas legalmente (ver
+			Pronunciamentos Técnicos CPC 27 – Ativo Imobilizado e CPC 04 – Ativo
+			Intangível);
+			(b) ganhos e perdas atuariais em planos de pensão com benefício definido
+			reconhecidos conforme item 93A do Pronunciamento Técnico CPC 33 –
+			Benefícios a Empregados;
+			(c) ganhos e perdas derivados de conversão de demonstrações contábeis de
+			operações no exterior (ver Pronunciamento Técnico CPC 02 – Efeitos das
+			Mudanças nas Taxas de Câmbio e Conversão de Demonstrações Contábeis);
+			(d) ganhos e perdas na remensuração de ativos financeiros disponíveis para
+			venda (ver Pronunciamento Técnico CPC 38 – Instrumentos Financeiros:
+			Reconhecimento e Mensuração);
+			(e) parcela efetiva de ganhos ou perdas advindos de instrumentos de hedge em
+			operação de hedge de fluxo de caixa (ver Pronunciamento Técnico CPC 38).
+
+			Fonte: CPC 26 (R1)</string></item>
+	<item><key>Outros Riscos de Preço</key>
+		<string>Outros riscos de preço são os riscos de o valor justo ou os fluxos de caixa futuros de instrumento
+			financeiro oscilarem como resultado de alterações nos preços de mercado (que não são as que
+			decorrem do risco de taxa de juros ou riscos cambiais), quer sejam essas alterações por fatores
+			específicos do instrumento financeiro, ou fatores que afetam todos os instrumentos financeiros
+			semelhantes negociados no mercado.
+
+			Fonte: CPC 40</string></item>
+	<item><key>Pagamento Contingente</key>
+		<string>Pagamento contingente é a parcela dos pagamentos do arrendamento mercantil
+			que não seja de quantia fixada, e sim baseada na quantia futura de um fator que se
+			altera sem ser pela passagem do tempo (por exemplo, percentual de vendas
+			futuras, quantidade de uso futuro, índices de preços futuros, taxas futuras de juros
+			do mercado).
+
+			Fonte: CPC 06 (R1)</string></item>
+	<item><key>Pagamentos Mínimos do Arrendamento Mercantil</key>
+		<string>Pagamentos mínimos do arrendamento mercantil são os pagamentos durante o
+			prazo do arrendamento mercantil que o arrendatário está ou possa vir a ser
+			obrigado a fazer, excluindo pagamento contingente, custos relativos a serviços e
+			impostos a serem pagos pelo arrendador e a ele serem reembolsados, juntamente
+			com:
+			(a) para o arrendatário, quaisquer quantias garantidas pelo arrendatário ou por
+			parte relacionada a ele; ou
+			(b) para o arrendador, qualquer valor residual garantido ao arrendador:
+			(i) pelo arrendatário;
+			(ii) por parte relacionada com o arrendatário; ou
+			(iii) por terceiro não relacionado com o arrendador que seja
+			financeiramente capaz de dar cumprimento às obrigações segundo a
+			garantia.
+			Contudo, se o arrendatário tiver a opção de comprar o ativo por um preço que se
+			espera seja suficientemente mais baixo do que o valor justo na data em que a
+			opção se torne exercível, para que, no início do arrendamento mercantil, seja
+			razoavelmente certo que a opção será exercida, os pagamentos mínimos do
+			arrendamento mercantil compreendem os pagamentos mínimos a serem feitos
+			durante o prazo do arrendamento mercantil até à data esperada do exercício dessa
+			opção de compra e o pagamento necessário para exercê-la.
+
+			Fonte: CPC 06 (R1)</string></item>
+	<item><key>Parte Integrante do Negócio em Conjunto</key>
+		<string>Entidade que participa de negócio em conjunto, independentemente
+			de essa entidade deter o controle conjunto do negócio em conjunto.
+
+			Fonte: CPC 19 (R2)</string></item>
+	<item><key>Parte Relacionada</key>
+		<string>Parte relacionada é a pessoa ou a entidade que está relacionada com a entidade
+			que está elaborando suas demonstrações contábeis (neste Pronunciamento
+			Técnico, tratada como “entidade que reporta a informação”).
+			(a) Uma pessoa, ou um membro próximo de sua família, está relacionada com a
+			entidade que reporta a informação se:
+			(i) tiver o controle pleno ou compartilhado da entidade que reporta a informação;
+			(ii) tiver influência significativa sobre a entidade que reporta a informação; ou
+			(iii) for membro do pessoal chave da administração da entidade que reporta a
+			informação ou da controladora da entidade que reporta a informação.
+			(b) Uma entidade está relacionada com a entidade que reporta a informação se
+			qualquer das condições abaixo for observada:
+			(i) a entidade e a entidade que reporta a informação são membros do mesmo
+			grupo econômico (o que significa dizer que a controladora e cada
+			controlada são inter-relacionadas, bem como as entidades sob controle
+			comum são relacionadas entre si);
+			(ii) a entidade é coligada ou controlada em conjunto (joint venture) de outra
+			entidade (ou coligada ou controlada em conjunto de entidade membro de
+			grupo econômico do qual a outra entidade é membro);
+			(iii) ambas as entidades estão sob o controle conjunto (joint ventures) de uma
+			terceira entidade;
+			(iv) uma entidade está sob o controle conjunto (joint venture) de uma terceira
+			entidade e a outra entidade for coligada dessa terceira entidade;
+			(v) a entidade é um plano de benefício pós-emprego cujos beneficiários são os
+			empregados de ambas as entidades, a que reporta a informação e a que está
+			relacionada com a que reporta a informação. Se a entidade que reporta a
+			informação for ela própria um plano de benefício pós-emprego, os
+			empregados que contribuem com a mesma serão também considerados
+			partes relacionadas com a entidade que reporta a informação;
+			(vi) a entidade é controlada, de modo pleno ou sob controle conjunto, por uma
+			pessoa identificada na letra (a);
+			(vii) uma pessoa identificada na letra (a)(i) tem influência significativa sobre a
+			entidade, ou for membro do pessoal chave da administração da entidade
+			(ou de controladora da entidade).
+			(viii) a entidade, ou qualquer membro de grupo do qual ela faz parte, fornece serviços de
+			pessoal-chave da administração da entidade que reporta ou à controladora da
+			entidade que reporta.
+
+			Fonte: CPC 05 (R1)</string></item>
+	<item><key>Participação de Não Controladores</key>
+		<string>Participação de não controladores é a parte do patrimônio líquido de controlada não
+			atribuível direta ou indiretamente à controladora (anteriormente denominados
+			“minoritários”).
+
+			Fonte: CPC 15 (R1)
+
+			Participação de não controlador é a parte do patrimônio líquido da controlada não atribuível,
+			direta ou indiretamente, à controladora.
+
+			Fonte: CPC 36 (R3)</string></item>
+	<item><key>Participação em outra Entidade</key>
+		<string>Para os fins deste Pronunciamento, participação em outra entidade refere-se ao envolvimento contratual e não contratual que exponha a entidade à variabilidade dos retornos oriundos do desempenho da outra entidade. Participação em outra entidade pode ser comprovada pela, mas não está limitada à, detenção de instrumentos de patrimônio ou de dívida, bem como outras formas de envolvimento, como, por exemplo, o fornecimento de recursos como fonte de financiamento (funding), suporte de liquidez, melhoria de crédito e garantias. Isso inclui os meios pelos quais a entidade tem o controle ou controle conjunto de outra entidade ou influência significativa sobre ela. A entidade não tem necessariamente participação em outra entidade unicamente devido à relação típica cliente/fornecedor.
+
+			Fonte: CPC 45</string></item>
+	<item><key>Participação Societária</key>
+		<string>Participação societária, para os propósitos deste Pronunciamento, essa expressão é
+			utilizada de forma ampla, tanto no sentido da participação de um investidor no capital
+			de suas investidas, quanto da participação em entidades de mútuo (associações,
+			cooperativas, etc.).
+
+			Fonte: CPC 15 (R1)</string></item>
+	<item><key>Participantes do Mercado</key>
+		<string>Compradores e vendedores do mercado principal (ou mais vantajoso)
+			para o ativo ou passivo, os quais têm todas as características a seguir:
+			(a) são independentes entre si, ou seja, não são partes relacionadas,
+			conforme definido no Pronunciamento CPC 05, embora o preço em
+			uma transação com partes relacionadas possa ser utilizado como
+			informação (input) na mensuração do valor justo se a entidade tiver
+			evidência de que a transação foi realizada em condições de mercado;
+			(b) são conhecedores, tendo entendimento razoável do ativo ou passivo
+			e da transação com a utilização de todas as informações disponíveis,
+			incluindo informações que possam ser obtidas por meio de esforços
+			usuais e habituais com a devida diligência;
+			(c) são capazes de realizar transação com o ativo ou passivo;
+			(d) estão interessados em realizar transação com o ativo ou passivo, ou
+			seja, estão motivados, mas não forçados ou, de outro modo,
+			obrigados a fazê-lo.
+
+			Fonte: CPC 46</string></item>
+	<item><key>Passivo</key>
+		<string>Passivo é uma obrigação presente da entidade, derivada de eventos passados,
+			cuja liquidação se espera que resulte na saída de recursos da entidade
+			capazes de gerar benefícios econômicos;
+
+			Fonte: CPC 00
+
+			Um passivo é uma obrigação presente da entidade, derivada de eventos já ocorridos, cuja liquidação se espera que resulte em
+			saída de recursos capazes de gerar benefícios econômicos (isto é, uma saída de caixa ou de outros ativos da
+			entidade).
+
+			Fonte: Estrutura Conceitual - Pronunciamento Conceitual Básico do CPC
+
+			Passivo é uma obrigação presente da entidade, derivada de eventos já ocorridos, cuja liquidação se espera que resulte em saída de recursos da entidade capazes de gerar benefícios econômicos.
+
+			Fonte: CPC 25</string></item>
+	<item><key>Passivo Contingente</key>
+		<string>Passivo contingente é:
+			(a) uma obrigação possível que resulta de eventos passados e cuja existência será confirmada apenas pela ocorrência ou não de um ou mais eventos futuros incertos não totalmente sob controle da entidade; ou
+			(b) uma obrigação presente que resulta de eventos passados, mas que não é reconhecida porque:
+			(i) não é provável que uma saída de recursos que incorporam benefícios econômicos seja exigida para liquidar a obrigação; ou
+			(ii) o valor da obrigação não pode ser mensurado com suficiente confiabilidade.
+
+			Fonte: CPC 25</string></item>
+	<item><key>Passivo por Contrato de Seguro</key>
+		<string>Passivo por contrato de seguro é a obrigação contratual líquida da seguradora de
+			acordo com um contrato de seguro.
+
+			Fonte: CPC 11</string></item>
+	<item><key>Passivo Financeiro</key>
+		<string>Passivo financeiro é qualquer passivo que seja:
+			(a) uma obrigação contratual de:
+			(i) entregar caixa ou outro ativo financeiro a uma entidade; ou
+			(ii) trocar ativos financeiros ou passivos financeiros com outra entidade
+			sob condições que são potencialmente desfavoráveis para a entidade;
+			ou
+			(b) contrato que será ou poderá ser liquidado por instrumentos patrimoniais da
+			própria entidade, e seja:
+			(i) um não derivativo no qual a entidade é ou pode ser obrigada a
+			entregar um número variável de instrumentos patrimoniais da
+			entidade; ou
+			(ii) um derivativo que será ou poderá ser liquidado de outra forma que
+			não pela troca de um montante fixo em caixa, ou outro ativo
+			financeiro, por um número fixo de instrumentos patrimoniais da
+			própria entidade. Para esse propósito, os instrumentos patrimoniais
+			da entidade não incluem instrumentos financeiros com opção de
+			venda que são classificados como instrumentos patrimoniais de
+			acordo com os itens 16A e 16B, instrumentos que imponham à
+			entidade a obrigação de entregar à outra parte um pro rata de parte
+			dos ativos líquidos da entidade apenas na liquidação e são
+			classificados como instrumentos patrimoniais de acordo com os itens
+			16C e 16D, ou instrumentos que são contratos para futuro
+			recebimento ou entrega de instrumentos patrimoniais da própria
+			entidade.
+			Como uma exceção, um instrumento que satisfaça a definição de passivo
+			financeiro é classificado como instrumento patrimonial se tiver todas as
+			características e reunir as condições dos itens 16A e 16B ou dos itens 16C e 16D.
+
+			Fonte: CPC 39</string></item>
+	<item><key>Passivo Fiscal Diferido</key>
+		<string>Passivo fiscal diferido é o valor do tributo sobre o lucro devido em período futuro
+			relacionado às diferenças temporárias tributáveis.
+
+			Fonte: CPC 32</string></item>
+	<item><key>Patrimônio Líquido</key>
+		<string>Patrimônio Líquido é o interesse residual nos ativos da entidade depois de
+			deduzidos todos os seus passivos.
+
+			Fonte: CPC 00</string></item>
+	<item><key>Perda por Desvalorização</key>
+		<string>Perda por desvalorização é o montante pelo qual o valor contábil de um ativo ou
+			de unidade geradora de caixa excede seu valor recuperável.
+
+			Fonte: CPC 01 (R1)</string></item>
+	<item><key>Perda por Redução ao Valor Recuperável</key>
+		<string>Perda por redução ao valor recuperável é o valor pelo qual o valor contábil de um ativo ou de uma unidade geradora de caixa excede seu valor recuperável.
+
+			Fonte: CPC 27</string></item>
+	<item><key>Período de Aquisição</key>
+		<string>Período de aquisição é o período ao longo do qual todas as condições de aquisição de
+			direito de um acordo com pagamento baseado em ações devem ser cumpridas.
+
+			Fonte: CPC 10 (R1)</string></item>
+	<item><key>Período Intermediário</key>
+		<string>Período intermediário é um período inferior àquele do exercício social
+			completo.
+
+			Fonte: CPC 21 (R1)</string></item>
+	<item><key>Pesquisa</key>
+		<string>Pesquisa é a investigação original e planejada realizada com a expectativa de
+			adquirir novo conhecimento e entendimento científico ou técnico.
+
+			Fonte: CPC 04 (R1)</string></item>
+	<item><key>Pessoal Chave da Administração</key>
+		<string>Pessoal chave da administração são as pessoas que têm autoridade e
+			responsabilidade pelo planejamento, direção e controle das atividades da
+			entidade, direta ou indiretamente, incluindo qualquer administrador (executivo ou
+			outro) dessa entidade.
+
+			Fonte: CPC 05 (R1)</string></item>
+	<item><key>Planta Portadora</key>
+		<string>Planta portadora é uma planta viva que:
+			CPC_27
+			3
+			(a) é utilizada na produção ou no fornecimento de produtos agrícolas;
+			(b) é cultivada para produzir frutos por mais de um período; e
+			(c) tem uma probabilidade remota de ser vendida como produto agrícola, exceto para
+			eventual venda como sucata.
+			(Os itens 5A e 5B do CPC 29 foram elaborados com base na definição de planta portadora.)
+			(Definição incluída pela Revisão CPC 08)
+
+			Fonte: CPC 27
+
+			Planta portadora é uma planta viva que:
+			(a) é utilizada na produção ou no fornecimento de produtos agrícolas;
+			(b) é cultivada para produzir frutos por mais de um período; e
+			(c) tem uma probabilidade remota de ser vendida como produto agrícola, exceto para
+			eventual venda como sucata. (Definição incluída pela Revisão CPC 08)
+
+			Fonte: CPC 29</string></item>
+	<item><key>Poder</key>
+		<string>Poder são direitos existentes que dão a capacidade atual de dirigir as atividades relevantes.
+
+			Fonte: CPC 36 (R3)</string></item>
+	<item><key>Políticas Contábeis</key>
+		<string>Políticas contábeis são os princípios, as bases, as convenções, as regras e as práticas específicas aplicados pela entidade na elaboração e na apresentação de demonstrações contábeis.
+
+			Fonte: CPC 23</string></item>
+	<item><key>Práticas Contábeis Brasileiras</key>
+		<string>Práticas contábeis brasileiras compreendem a legislação societária brasileira, os
+			Pronunciamentos, as Interpretações e as Orientações emitidos pelo CPC
+			homologados pelos órgãos reguladores, e práticas adotadas pelas entidades em
+			assuntos não regulados, desde que atendam ao Pronunciamento Conceitual
+			Básico Estrutura Conceitual para Elaboração e Divulgação de Relatório
+			Contábil-Financeiro emitido pelo CPC e, por conseguinte, em consonância com
+			as normas contábeis internacionais.
+
+			Fonte: CPC 26 (R1)</string></item>
+	<item><key>Prazo do Arrendamento Mercantil</key>
+		<string>Prazo do arrendamento mercantil é o período não cancelável pelo qual o
+			arrendatário contratou o arrendamento mercantil do ativo juntamente com
+			quaisquer prazos adicionais pelos quais o arrendatário tem a opção de continuar a
+			arrendar o ativo, com ou sem pagamento adicional, quando no início do
+			arrendamento mercantil for razoavelmente certo que o arrendatário exercerá a
+			opção.
+
+			Fonte: CPC 06 (R1)</string></item>
+	<item><key>Preço de Entrada</key>
+		<string>Preço pago para adquirir um ativo ou recebido para assumir um passivo
+			em uma transação de troca.
+
+			Fonte: CPC 40</string></item>
+	<item><key>Preço de Saída</key>
+		<string>Preço que seria recebido para vender um ativo ou pago para transferir um
+			passivo.
+
+			Fonte: CPC 40</string></item>
+	<item><key>Prejuízo Fiscal</key>
+		<string>Lucro tributável (prejuízo fiscal) é o lucro (prejuízo) para um período,
+			determinado de acordo com as regras estabelecidas pelas autoridades tributárias,
+			sobre o qual os tributos sobre o lucro são devidos (recuperáveis).
+
+			Fonte: CPC 32</string></item>
+	<item><key>Prêmio de Risco</key>
+		<string>Compensação buscada por participantes do mercado avessos ao risco por
+			suportar a incerteza inerente ao fluxo de caixa de um ativo ou passivo.
+			Denominada também como “ajuste de risco”.
+
+			Fonte: CPC 46</string></item>
+	<item><key>Prêmio na Emissão de Debêntures</key>
+		<string>Prêmio na emissão de debêntures ou de outros títulos e valores mobiliários é
+			o valor recebido que supera o de resgate desses títulos na data do próprio
+			recebimento ou o valor formalmente atribuído aos valores mobiliários.
+
+			Fonte: CPC 08 (R1)</string></item>
+	<item><key>Primeiras Demonstrações Contábeis em IFRSs</key>
+		<string>Primeiras demonstrações contábeis em IFRSs são as primeiras demonstrações contábeis
+			anuais nas quais a entidade adota as IFRSs por meio de declaração explícita e sem
+			ressalvas de conformidade com as IFRSs.
+
+			Fonte: CPC 37 (R1)</string></item>
+	<item><key>Primeiro Período de Divulgação em IFRSs</key>
+		<string>Primeiro período de divulgação em IFRSs é o último período coberto pelas primeiras
+			demonstrações contábeis da entidade em IFRSs.
+
+			Fonte: CPC 37 (R1)</string></item>
+	<item><key>Produção Agrícola</key>
+		<string>Produção agrícola é o produto colhido de ativo biológico da entidade.
+
+			Fonte: CPC 29</string></item>
+	<item><key>Propriedade para Investimento</key>
+		<string>Propriedade para investimento é a propriedade (terreno ou edifício – ou parte de edifício – ou ambos) mantida (pelo proprietário ou pelo arrendatário em arrendamento financeiro) para auferir aluguel ou para valorização do capital ou para ambas, e não para:
+			(a) uso na produção ou fornecimento de bens ou serviços ou para finalidades administrativas; ou
+			(b) venda no curso ordinário do negócio.
+
+			Fonte: CPC 28</string></item>
+	<item><key>Propriedade Ocupada pelo Proprietário</key>
+		<string>Propriedade ocupada pelo proprietário é a propriedade mantida (pelo proprietário ou pelo arrendatário sob arrendamento financeiro) para uso na produção ou fornecimento de bens ou serviços ou para finalidades administrativas.
+
+			Fonte: CPC 28</string></item>
+	<item><key>Proprietário</key>
+		<string>Proprietário, para os propósitos deste Pronunciamento, esse termo é utilizado, de forma
+			ampla, tanto para incluir os detentores de participação societária em uma sociedade,
+			quanto os proprietários, membros ou participantes de entidade de mútuo (associação,
+			cooperativa, etc.).
+
+			Fonte: CPC 15 (R1)
+
+			Proprietário é o detentor de instrumentos classificados como patrimoniais (de
+			capital próprio, no patrimônio líquido).
+
+			Fonte: CPC 26 (R1)</string></item>
+	<item><key>Provável</key>
+		<string>Provável é o que tem mais chance de ocorrer do que de não ocorrer.
+
+			Fonte: CPC 31</string></item>
+	<item><key>Provisão</key>
+		<string>Provisão é um passivo de prazo ou de valor incertos.
+
+			Fonte: CPC 25</string></item>
+	<item><key>Reapresentação Retrospectiva</key>
+		<string>Reapresentação retrospectiva é a correção do reconhecimento, da mensuração e da divulgação de valores de elementos das demonstrações contábeis, como se um erro de períodos anteriores nunca tivesse ocorrido.
+
+			Fonte: CPC 23</string></item>
+	<item><key>Receita</key>
+		<string>Receita é o ingresso bruto de benefícios econômicos durante o período observado no curso
+			das atividades ordinárias da entidade que resultam no aumento do seu patrimônio líquido,
+			exceto os aumentos de patrimônio líquido relacionados às contribuições dos proprietários.
+
+			Fonte: CPC 30 (R1)</string></item>
+	<item><key>Receita Financeira não realizada</key>
+		<string>Receita financeira não realizada é a diferença entre:
+			(a) o investimento bruto no arrendamento mercantil; e
+			(b) o investimento líquido no arrendamento mercantil.
+
+			Fonte: CPC 06 (R1)</string></item>
+	<item><key>Receita Tributária</key>
+		<string>Despesa tributária (receita tributária) é o valor total incluído na determinação do
+			lucro ou prejuízo para o período relacionado com o tributo sobre o lucro corrente
+			ou diferido.
+
+			Fonte: CPC 32</string></item>
+	<item><key>Receita de Venda</key>
+		<string>Receita de venda de mercadorias, produtos e serviços representa os valores
+			reconhecidos na contabilidade a esse título pelo regime de competência e incluídos
+			na demonstração do resultado do período.
+
+			Fonte: CPC 09</string></item>
+	<item><key>Redução Tributária</key>
+		<string>Redução Tributária exclui somente
+			parte do passivo tributário, restando, ainda, parcela de imposto a pagar. A
+			redução ou a isenção pode se processar, eventualmente, por meio de devolução
+			do imposto recolhido mediante determinadas condições.
+
+			Fonte: CPC 07 (R1)</string></item>
+	<item><key>Reestruturação</key>
+		<string>Reestruturação é um programa planejado e controlado pela administração e que altera materialmente:
+			(a) o âmbito de um negócio empreendido por entidade; ou
+			(b) a maneira como o negócio é conduzido.
+
+			Fonte: CPC 25</string></item>
+	<item><key>Resseguradora</key>
+		<string>Resseguradora é a parte que tem a obrigação, em um contrato de resseguro, de
+			indenizar uma cedente se ocorrer um evento segurado.
+
+			Fonte: CPC 11</string></item>
+	<item><key>Resultado Abrangente</key>
+		<string>Resultado abrangente é a mutação que ocorre no patrimônio líquido durante um
+			período que resulta de transações e outros eventos que não sejam derivados de
+			transações com os sócios na sua qualidade de proprietários.
+
+			Resultado abrangente compreende todos os componentes da “demonstração do
+			resultado” e da “demonstração dos outros resultados abrangentes”.
+
+			Fonte: CPC 26 (R1)</string></item>
+	<item><key>Resultado Contábil</key>
+		<string>Resultado contábil é o lucro ou prejuízo para um período antes da dedução dos
+			tributos sobre o lucro.
+
+			Fonte: CPC 32</string></item>
+	<item><key>Resultado de Entidade Estruturada</key>
+		<string>Para os fins deste Pronunciamento, resultado de entidade estruturada inclui, entre outros, taxas recorrentes e não recorrentes, juros, dividendos, distribuições de lucros, ganhos ou perdas sobre a remensuração ou desreconhecimento de participações em entidades estruturadas e ganhos ou perdas decorrentes da transferência de ativos e passivos à entidade estruturada.
+
+			Fonte: CPC 45</string></item>
+	<item><key>Resultado do Período</key>
+		<string>Resultado do período é o total das receitas deduzido das despesas, exceto os
+			itens reconhecidos como outros resultados abrangentes no patrimônio líquido.
+
+			Fonte: CPC 26 (R1)</string></item>
+	<item><key>Risco de Crédito</key>
+		<string>Risco de crédito é o risco de uma das partes contratantes de instrumento financeiro causar prejuízo
+			financeiro à outra parte pelo não cumprimento da sua obrigação perante esta outra.
+
+			Fonte: CPC 40</string></item>
+	<item><key>Risco de Descumprimento</key>
+		<string>Risco de que a entidade não cumprirá uma obrigação. O risco de
+			descumprimento (non-performance) inclui, entre outros, o risco de
+			crédito próprio da entidade.
+
+			Fonte: CPC 46</string></item>
+	<item><key>Risco Financeiro</key>
+		<string>Risco Financeiro é o risco de possível alteração futura em uma ou mais taxas de
+			juro, preços de instrumentos financeiros, preços de mercadorias, taxas de câmbio,
+			índices de preços ou taxas, rating de crédito ou índices de crédito ou outra
+			variável especificada, desde que, no caso de uma variável não financeira, essa
+			variável não seja específica de uma das partes do contrato.
+
+			Fonte: CPC 11</string></item>
+	<item><key>Risco de Liquidez</key>
+		<string>Risco de liquidez é o risco de que a entidade enfrente dificuldades para cumprir obrigações
+			relacionadas a passivos financeiros que são liquidadas pela entrega de caixa ou outro ativo financeiro.
+
+			Fonte: CPC 40</string></item>
+	<item><key>Risco de Mercado</key>
+		<string>Risco de mercado é o risco de que o valor justo ou os fluxos de caixa futuros de instrumento
+			financeiro oscilem devido a mudanças nos preços de mercado. O risco de mercado compreende três
+			tipos de risco: risco de moeda, risco de taxa de juro e outros riscos de preços.
+
+			Fonte: CPC 40</string></item>
+	<item><key>Risco de Moeda</key>
+		<string>Risco de moeda é o risco de o valor justo ou os fluxos de caixa futuros de instrumento financeiro
+			oscilarem devido a mudanças nas taxas de câmbio de moeda estrangeira.
+
+			Fonte: CPC 40</string></item>
+	<item><key>Risco de Seguro</key>
+		<string>Risco de seguro é o risco, que não seja um risco financeiro, transferido do
+			detentor do contrato para o emitente.
+
+			Fonte: CPC 11</string></item>
+	<item><key>Risco de Taxa de Juros</key>
+		<string>Risco de taxa de juros é o risco de o valor justo ou os fluxos de caixa futuros de instrumento
+			financeiro oscilarem devido a mudanças nas taxas de juro de mercado.
+
+			Fonte: CPC 40</string></item>
+	<item><key>Segurado</key>
+		<string>Segurado é a parte que tem direito à indenização em um contrato de seguro, se
+			ocorrer um evento segurado.
+
+			Fonte: CPC 11</string></item>
+	<item><key>Seguradora</key>
+		<string>Seguradora é a parte que tem a obrigação, em um contrato de seguro, de indenizar
+			o segurado se ocorrer um evento segurado.
+
+			Fonte: CPC 11</string></item>
+	<item><key>Subvenção Governamental</key>
+		<string>Subvenção governamental é uma assistência governamental geralmente na forma
+			de contribuição de natureza pecuniária, mas não só restrita a ela, concedida a uma
+			entidade normalmente em troca do cumprimento passado ou futuro de certas
+			condições relacionadas às atividades operacionais da entidade. Não são
+			subvenções governamentais aquelas que não podem ser razoavelmente
+			quantificadas em dinheiro e as transações com o governo que não podem ser
+			distinguidas das transações comerciais normais da entidade.
+
+			Fonte: CPC 07 (R1)</string></item>
+	<item><key>Subvenções Relacionadas a Ativos</key>
+		<string>Subvenções relacionadas a ativos são subvenções governamentais cuja condição
+			principal para que a entidade se qualifique é a de que ela compre, construa ou de
+			outra forma adquira ativos de longo prazo. Também podem ser incluídas
+			condições acessórias que restrinjam o tipo ou a localização dos ativos, ou os
+			períodos durante os quais devem ser adquiridos ou mantidos.
+
+			Fonte: CPC 07 (R1)</string></item>
+	<item><key>Subvenções Relacionadas a Resultado</key>
+		<string>Subvenções relacionadas a resultado são as outras subvenções governamentais
+			que não aquelas relacionadas a ativos.
+
+			Fonte: CPC 07 (R1)</string></item>
+	<item><key>Taxa de Câmbio</key>
+		<string>Taxa de câmbio é a relação de troca entre duas moedas.
+
+			Fonte: CPC 02 (R2)</string></item>
+	<item><key>Taxa de Câmbio à Vista</key>
+		<string>Taxa de câmbio à vista é a taxa de câmbio normalmente utilizada para liquidação
+			imediata das operações de câmbio; no Brasil, a taxa a ser utilizada é a divulgada
+			pelo Banco Central do Brasil.
+
+			Fonte: CPC 02 (R2)</string></item>
+	<item><key>Taxa de Fechamento</key>
+		<string>Taxa de fechamento é a taxa de câmbio à vista vigente ao término do período de
+			reporte.
+
+			Fonte: CPC 02 (R2)</string></item>
+	<item><key>Taxa Interna de Retorno</key>
+		<string>Taxa interna de retorno (TIR) é a taxa efetiva de juros que iguala o valor
+			presente dos fluxos de entrada de recursos ao valor presente dos fluxos de
+			saída. Em outros termos, é a taxa efetiva de juros que faz com que, por
+			exemplo, o valor presente líquido dos fluxos de caixa de determinado título de
+			dívida ou empréstimo seja igual a zero, considerando-se, necessariamente, a
+			captação inicial líquida dos custos de transação.
+
+			Fonte: CPC 08 (R1)</string></item>
+	<item><key>Taxa de Juros Implícita no Arrendamento Mercantil</key>
+		<string>Taxa de juros implícita no arrendamento mercantil é a taxa de desconto que, no
+			início do arrendamento mercantil, faz com que o valor presente agregado: a) dos
+			pagamentos mínimos do arrendamento mercantil; e b) do valor residual não
+			garantido seja igual à soma (i) do valor justo do ativo arrendado e (ii) de
+			quaisquer custos diretos iniciais do arrendador.
+
+			Fonte: CPC 06 (R1)</string></item>
+	<item><key>Taxa de Juros Incremental no Financiamento do Arrendatário</key>
+		<string>Taxa de juros incremental de financiamento do arrendatário é a taxa de juros que
+			o arrendatário teria de pagar num arrendamento mercantil semelhante ou, se isso
+			não for determinável, a taxa em que, no início do arrendamento mercantil, o
+			arrendatário incorreria ao pedir emprestado por prazo semelhante, e com
+			segurança semelhante, os fundos necessários para comprar o ativo.
+
+			Fonte: CPC 06 (R1)</string></item>
+	<item><key>Teste de Adequação de Passivo</key>
+		<string>Teste de adequação de passivo é o teste que avalia se o montante do passivo por
+			contrato de seguro precisa ser aumentado (ou reduzido o montante das despesas
+			de comercialização diferidas ou dos ativos intangíveis relacionados), com base em
+			uma análise dos fluxos de caixa futuros.
+
+			Fonte: CPC 11</string></item>
+	<item><key>Título Patrimonial</key>
+		<string>Título patrimonial é qualquer contrato (ou título ou valor mobiliário) que
+			evidencie um interesse residual nos ativos da entidade após a dedução de
+			todos os seus passivos. Como exemplos citam-se ações, bônus de subscrição
+			etc.
+
+			Fonte: CPC 08 (R1)</string></item>
+	<item><key>Tomador de Decisões</key>
+		<string>Tomador de decisões: entidade com direitos de tomada de decisões que seja principal ou agente
+			de outras partes.
+
+			Fonte: CPC 36 (R3)</string></item>
+	<item><key>Transação não Forçada</key>
+		<string>Transação que presume exposição ao mercado por um período antes da
+			data de mensuração para permitir atividades de marketing que são usuais
+			e habituais para transações envolvendo esses ativos ou passivos; não se
+			trata de uma transação forçada (por exemplo, liquidação forçada ou
+			venda em situação adversa).
+
+			Fonte: CPC 46</string></item>
+	<item><key>Transação com Pagamento baseado em Ações</key>
+		<string>Transação com pagamento baseado em ações é a transação segundo a qual a entidade:
+			(a) recebe produtos ou serviços do fornecedor desses produtos ou serviços
+			(incluindo empregado) por meio de acordo com pagamento baseado em
+			ações; ou
+			(b) incorre em passivo para liquidar a transação com o fornecedor, por meio de
+			acordo com pagamento baseado em ações, quando outra entidade do grupo
+			recebe referidos produtos ou serviços.
+
+			Fonte: CPC 10 (R1)</string></item>
+	<item><key>Transação com Pagamento baseado em Ações Liquidada em Caixa</key>
+		<string>Transação com pagamento baseado em ações liquidada em caixa é a transação com
+			pagamento baseado em ações por meio da qual a entidade adquire produtos ou serviços
+			incorrendo em passivo, para transferir caixa ou outros ativos ao fornecedor desses
+			produtos ou serviços, por montante que é baseado no preço (ou no valor) dos
+			instrumentos patrimoniais (incluindo ações ou opções de ações) da entidade ou de outra
+			entidade do grupo.
+
+			Fonte: CPC 10 (R1)</string></item>
+	<item><key>Transacão com Pagamento baseado em ações liquidadas com instrumentos patrimoniais</key>
+		<string>Transação com pagamento baseado em ações liquidada com instrumentos patrimoniais
+			é a transação com pagamento baseado em ações segundo a qual a entidade:
+			(a) recebe produtos ou serviços em contrapartida a seus próprios instrumentos
+			patrimoniais (incluindo ações e opções de ações); ou
+			(b) recebe produtos ou serviços, mas não tem obrigação de liquidar a transação
+			com o fornecedor.
+
+			Fonte: CPC 10 (R1)</string></item>
+	<item><key>Transação com Parte Relacionada</key>
+		<string>Transação com parte relacionada é a transferência de recursos, serviços ou
+			obrigações entre uma entidade que reporta a informação e uma parte relacionada,
+			independentemente de ser cobrado um preço em contrapartida.
+
+			Fonte: CPC 05 (R1)</string></item>
+	<item><key>Transformação Biológica</key>
+		<string>Transformação biológica compreende o processo de crescimento, degeneração, produção e procriação que causam mudanças qualitativa e quantitativa no ativo biológico.
+
+			Fonte: CPC 29</string></item>
+	<item><key>Tributo Corrente</key>
+		<string>Tributo corrente é o valor do tributo devido (recuperável) sobre o lucro tributável
+			(prejuízo fiscal) do período.
+
+			Fonte: CPC 32</string></item>
+	<item><key>Unidade de Contabilização</key>
+		<string>Nível no qual um ativo ou passivo é agregado ou desagregado para fins
+			de reconhecimento.
+
+			Fonte: CPC 46</string></item>
+	<item><key>Unidade Geradora de Caixa</key>
+		<string>Unidade geradora de caixa é o menor grupo identificável de ativos que gera
+			entradas de caixa, entradas essas que são em grande parte independentes das
+			entradas de caixa de outros ativos ou outros grupos de ativos.
+
+			Fonte: CPC 01 (R1)
+
+			Unidade geradora de caixa é o menor grupo identificável de ativos que gera fluxos de entrada de caixa e que seja amplamente independente dos fluxos de entrada de caixa de outros ativos ou grupos de ativos.
+
+			Fonte: CPC 31</string></item>
+	<item><key>Valor Adicionado</key>
+		<string>Valor adicionado representa a riqueza criada pela empresa, de forma geral medida
+			pela diferença entre o valor das vendas e os insumos adquiridos de terceiros. Inclui
+			também o valor adicionado recebido em transferência, ou seja, produzido por
+			terceiros e transferido à entidade.
+
+			Fonte: CPC 09</string></item>
+	<item><key>Valor Adicionado Recebido em Transferência</key>
+		<string>Valor adicionado recebido em transferência representa a riqueza que não tenha
+			sido criada pela própria entidade, e sim por terceiros, e que a ela é transferida, como por exemplo receitas financeiras, de equivalência patrimonial, dividendos,
+			aluguel, royalties, etc. Precisa ficar destacado, inclusive para evitar dupla-contagem
+			em certas agregações.
+
+			Fonte: CPC 09</string></item>
+	<item><key>Valor Amortizável</key>
+		<string>Valor amortizável é o custo de um ativo ou outro valor que substitua o custo,
+			menos o seu valor residual.
+
+			Fonte: CPC 04 (R1)</string></item>
+	<item><key>Valor Contábil</key>
+		<string>Valor contábil é o montante pelo qual o ativo está reconhecido no balanço depois da dedução de toda respectiva depreciação, amortização ou exaustão acumulada e
+			ajuste para perdas.
+
+			Fonte: CPC 01 (R1) e CPC 04 (R1)
+
+			Valor contábil é o valor pelo qual um ativo é reconhecido após a dedução da depreciação e da perda por redução ao valor recuperável acumuladas.
+
+			Fonte: CPC 27
+
+			Valor contábil é o montante pelo qual um ativo é reconhecido no balanço patrimonial.
+
+			Fonte: CPC 28</string></item>
+	<item><key>Valor Depreciável</key>
+		<string>Valor depreciável, amortizável e exaurível é o custo de um ativo, ou outra base
+			que substitua o custo nas demonstrações contábeis, menos seu valor residual.
+
+			Fonte: CPC 01 (R1)
+
+			Valor depreciável é o custo de um ativo ou outro valor que substitua o custo, menos o seu valor residual.
+
+			Fonte: CPC 27</string></item>
+	<item><key>Valor Específico para a Entidade</key>
+		<string>Valor específico para a entidade é o valor presente dos fluxos de caixa que uma
+			entidade espera (i) obter com o uso contínuo de um ativo e com a alienação ao
+			final da sua vida útil ou (ii) incorrer para a liquidação de um passivo.
+
+			Fonte: CPC 04 (R1)
+
+			Valor específico para a entidade (valor em uso) é o valor presente dos fluxos de caixa que a entidade espera (i) obter com o uso contínuo de um ativo e com a alienação ao final da sua vida útil ou (ii) incorrer para a liquidação de um passivo.
+
+			Fonte: CPC 27</string></item>
+	<item><key>Valor Exaurível</key>
+		<string>Valor depreciável, amortizável e exaurível é o custo de um ativo, ou outra base
+			que substitua o custo nas demonstrações contábeis, menos seu valor residual.
+
+			Fonte: CPC 01 (R1)</string></item>
+	<item><key>Valor Intrínseco</key>
+		<string>Valor intrínseco é a diferença entre o valor justo das ações que a contraparte tem o
+			direito (condicional ou incondicional) de subscrever, ou de receber, e o preço (se houver)
+			que a contraparte é (ou será) requerida a pagar por essas ações. Por exemplo, uma opção
+			de ações com preço de exercício de $ 15, sobre uma ação cujo valor justo é de $ 20, tem
+			valor intrínseco de $ 5.
+
+			Fonte: CPC 10 (R1)</string></item>
+	<item><key>Valor Justo</key>
+		<string>Valor justo é o preço que seria recebido pela venda de um ativo ou que seria pago pela
+			transferência de um passivo em uma transação não forçada entre participantes do mercado
+			na data de mensuração. (Ver CPC 46 – Mensuração do Valor Justo).
+
+			Fonte: CPC 02 (R2), CPC 06 (R1), CPC 07 (R1), CPC 08 (R1), CPC 10 (R1), CPC 11, CPC 15 (R1), CPC 16 (R1), CPC 27, CPC 28, CPC 30, CPC 31, CPC 37 (R1), CPC 39, CPC 46</string></item>
+	<item><key>Valor Justo de um Ativo</key>
+		<string>Valor justo de um ativo é o valor pelo qual um ativo pode ser negociado entre
+			partes interessadas, conhecedoras do negócio e independentes entre si, com
+			ausência de fatores que pressionem para a liquidação da transação ou que
+			caracterizem uma transação compulsória.
+
+			Fonte: CPC 04 (R1)</string></item>
+	<item><key>Valor Realizável Líquido</key>
+		<string>O valor realizável líquido refere-se à quantia líquida que a entidade espera realizar com a
+			venda do estoque no curso normal dos negócios. O valor justo reflete o preço pelo qual uma
+			transação ordenada para a venda do mesmo estoque no mercado principal (ou mais vantajoso)
+			para esse estoque ocorreria entre participantes do mercado na data de mensuração. O primeiro
+			é um valor específico para a entidade, ao passo que o segundo já não é. Por isso, o valor
+			realizável líquido dos estoques pode não ser equivalente ao valor justo deduzido dos gastos
+			necessários para a respectiva venda.
+
+			Fonte: CPC 16 (R1)</string></item>
+	<item><key>Valor Recuperável</key>
+		<string>Valor recuperável de um ativo ou de unidade geradora de caixa é o maior
+			montante entre o seu valor justo líquido de despesa de venda e o seu valor em
+			uso.
+
+			Fonte: CPC 01 (R1)
+
+			Valor recuperável é o maior valor entre o valor justo menos os custos de venda de um ativo e seu valor em uso.
+
+			Fonte: CPC 27</string></item>
+	<item><key>Valor Residual</key>
+		<string>Valor residual é o valor estimado que a entidade obteria com a venda do ativo,
+			após deduzir as despesas estimadas de venda, caso o ativo já tivesse a idade e a
+			condição esperadas para o fim de sua vida útil.
+
+			Fonte: CPC 04 (R1)</string></item>
+	<item><key>Valor Residual de um Ativo</key>
+		<string>Valor residual de um ativo é o valor estimado que a entidade obteria com a venda do ativo, após deduzir as despesas estimadas de venda, caso o ativo já tivesse a idade e a condição esperadas para o fim de sua vida útil.
+
+			Fonte: CPC 27</string></item>
+	<item><key>Valor Residual Garantido</key>
+		<string>Valor residual garantido é:
+			(a) para um arrendatário, a parte do valor residual que seja garantida por ele ou
+			por parte a ele relacionada (sendo o valor da garantia o valor máximo que
+			possa, em qualquer caso, tornar-se pagável); e
+			(b) para um arrendador, a parte do valor residual que seja garantida pelo
+			arrendatário ou por terceiro não relacionado com o arrendador que seja
+			financeiramente capaz de satisfazer as obrigações cobertas pela garantia.
+
+			Fonte: CPC 06 (R1)</string></item>
+	<item><key>Valor Residual não Garantido</key>
+		<string>Valor residual não garantido é a parte do valor residual do ativo arrendado, cuja
+			realização pelo arrendador não esteja assegurada ou esteja unicamente garantida
+			por uma parte relacionada com o arrendador.
+
+			Fonte: CPC 06 (R1)</string></item>
+	<item><key>Valor em Uso</key>
+		<string>Valor em uso é o valor presente de fluxos de caixa futuros esperados que devem
+			advir de um ativo ou de unidade geradora de caixa.
+
+			Fonte: CPC 01 (R1)
+
+			Valor específico para a entidade (valor em uso) é o valor presente dos fluxos de caixa que a entidade espera (i) obter com o uso contínuo de um ativo e com a alienação ao final da sua vida útil ou (ii) incorrer para a liquidação de um passivo.
+
+			Fonte: CPC 27
+
+			Valor de uso é o valor presente dos fluxos de caixa futuros estimados que se espera que surjam do uso contínuo de um ativo e da sua disposição ao final da sua vida útil.
+
+			Fonte: CPC 31</string></item>
+	<item><key>Variação Cambial</key>
+		<string>Variação cambial é a diferença resultante da conversão de um número específico
+			de unidades em uma moeda para outra moeda, a diferentes taxas cambiais.
+
+			Fonte: CPC 02 (R2)</string></item>
+	<item><key>Veículo Separado</key>
+		<string>Estrutura financeira separadamente identificável, incluindo pessoas
+			jurídicas separadas ou entidades reconhecidas por estatuto,
+			independentemente de essas entidades terem personalidade jurídica.
+
+			Fonte: CPC 19 (R2)</string></item>
+	<item><key>Vida Econômica</key>
+		<string>Vida econômica é:
+			(a) o período durante o qual se espera que um ativo seja economicamente utilizável por um ou mais usuários; ou
+			(b) o número de unidades de produção ou de unidades semelhantes que um ou
+			mais usuários esperam obter do ativo.
+
+			Fonte: CPC 06 (R1)</string></item>
+	<item><key>Vida Útil</key>
+		<string>Vida útil é:
+			(a) o período de tempo durante o qual a entidade espera utilizar um ativo; ou
+			(b) o número de unidades de produção ou de unidades semelhantes que a
+			entidade espera obter do ativo.
+
+			Fonte: CPC 01 (R1), CPC 04 (R1), CPC 27
+
+			Vida útil é o período remanescente estimado, a partir do começo do prazo do
+			arrendamento mercantil, sem limitação pelo prazo do arrendamento mercantil,
+			durante o qual se espera que os benefícios econômicos incorporados no ativo
+			sejam consumidos pela entidade.
+
+			Fonte: CPC 06 (R1)</string></item>
+</books>

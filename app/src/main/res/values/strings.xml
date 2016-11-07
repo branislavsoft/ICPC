@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">ICPC</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nav_category">Glossário</string>
+    <string name="nav_list">CPCs</string>
+    <string name="nav_help">Informações</string>
+    <string name="nav_control">MyControls</string>
+    <string name="nav_settings">MySetting</string>
 </resources>
