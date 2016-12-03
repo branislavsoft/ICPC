@@ -1,21 +1,16 @@
-package com.branislav.icpc.Adapter;
+package com.isorensen.icpc.Adapter;
 
 import android.app.Activity;
-import android.app.Dialog;
-import android.graphics.Color;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.Button;
-import android.widget.ImageButton;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
-import android.widget.Toast;
 
-import com.branislav.icpc.MainActivity;
-import com.branislav.icpc.Model.Book;
-import com.branislav.icpc.R;
+import com.isorensen.icpc.MainActivity;
+import com.isorensen.icpc.Model.Book;
+import com.isorensen.icpc.R;
 
 import java.util.List;
 

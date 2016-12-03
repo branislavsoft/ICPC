@@ -1,15 +1,5 @@
-package com.branislav.icpc.Model;
+package com.isorensen.icpc.Model;
 
-import android.util.Log;
-
-import com.branislav.icpc.MainActivity;
-
-import org.xmlpull.v1.XmlPullParser;
-import org.xmlpull.v1.XmlPullParserException;
-import org.xmlpull.v1.XmlPullParserFactory;
-
-import java.io.IOException;
-import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.branislav.icpc.Model;
+package com.isorensen.icpc.Model;
 
 /**
  * Created by branislav on 11/4/16.

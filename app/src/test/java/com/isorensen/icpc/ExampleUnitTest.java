@@ -1,4 +1,4 @@
-package com.branislav.icpc;
+package com.isorensen.icpc;
 
 import org.junit.Test;
 

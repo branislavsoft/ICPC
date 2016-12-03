@@ -1,4 +1,4 @@
-package com.branislav.icpc.Adapter;
+package com.isorensen.icpc.Adapter;
 
 import android.app.Activity;
 import android.graphics.Color;
@@ -10,9 +10,9 @@ import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.branislav.icpc.MainActivity;
-import com.branislav.icpc.Model.Book;
-import com.branislav.icpc.R;
+import com.isorensen.icpc.MainActivity;
+import com.isorensen.icpc.Model.Book;
+import com.isorensen.icpc.R;
 
 import java.util.List;
 

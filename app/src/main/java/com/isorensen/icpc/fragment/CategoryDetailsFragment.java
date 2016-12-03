@@ -1,7 +1,9 @@
-package com.branislav.icpc.fragment;
+package com.isorensen.icpc.fragment;
 
 
+import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
@@ -11,7 +13,7 @@ import android.widget.ImageButton;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.branislav.icpc.R;
+import com.isorensen.icpc.R;
 
 /**
  * A simple {@link Fragment} subclass.
@@ -27,6 +29,12 @@ public class CategoryDetailsFragment extends Fragment {
     String sub_string;
     String detils_string;
     View CategoryDetailsView;
+
+
+    public static final String MyPREFERENCES = "Landscap" ;
+    public static final String status = "status";
+    SharedPreferences sharedpreferences;
+
     public CategoryDetailsFragment() {
         // Required empty public constructor
     }
@@ -35,11 +43,26 @@ public class CategoryDetailsFragment extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        // Inflate the layout for this fragment
-        title_string = getArguments().getString("title");
-        sub_string = getArguments().getString("sub");
-        detils_string = getArguments().getString("details");
+//        // Inflate the layout for this fragment
+//        if(getArguments().getString("title")!=null&&getArguments().getString("details")!=null){
+//            title_string = getArguments().getString("title");
+//            detils_string = getArguments().getString("details");
+//        }
+//        else {
+            SharedPreferences prefs = getActivity().getSharedPreferences(MyPREFERENCES, Context.MODE_PRIVATE);
+            title_string = prefs.getString("title", null);
+            detils_string=prefs.getString("details", null);
+//        }
+
+
         CategoryDetailsView=inflater.inflate(R.layout.fragment_category_details, container, false);
+
+        sharedpreferences = getActivity().getSharedPreferences(MyPREFERENCES, Context.MODE_PRIVATE);
+        SharedPreferences.Editor editor = sharedpreferences.edit();
+        editor.putString(status, "details");
+        editor.commit();
+
+
         title_textview=(TextView)CategoryDetailsView.findViewById(R.id.details_title_textView);
         //subtile_textview=(TextView)CategoryDetailsView.findViewById(R.id.sub_title_textView);
         details_textview=(TextView)CategoryDetailsView.findViewById(R.id.description_textView);

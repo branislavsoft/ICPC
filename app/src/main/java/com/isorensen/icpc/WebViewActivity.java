@@ -1,4 +1,4 @@
-package com.branislav.icpc;
+package com.isorensen.icpc;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

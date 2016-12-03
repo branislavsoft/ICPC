@@ -1,4 +1,4 @@
-package com.branislav.icpc;
+package com.isorensen.icpc;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;

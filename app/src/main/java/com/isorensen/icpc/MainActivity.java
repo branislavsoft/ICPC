@@ -1,23 +1,35 @@
-package com.branislav.icpc;
+package com.isorensen.icpc;
 
+import android.content.Context;
+import android.content.SharedPreferences;
 import android.graphics.Color;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 import com.aurelhubert.ahbottomnavigation.AHBottomNavigation;
 import com.aurelhubert.ahbottomnavigation.AHBottomNavigationItem;
-import com.branislav.icpc.fragment.CategoryDetailsFragment;
-import com.branislav.icpc.fragment.IcbcHelpFragment;
-import com.branislav.icpc.fragment.IcpcCategoryFragment;
-import com.branislav.icpc.fragment.IcpcListFragment;
-import com.branislav.icpc.fragment.PDFFragment;
+import com.isorensen.icpc.fragment.CategoryDetailsFragment;
+import com.isorensen.icpc.fragment.IcbcHelpFragment;
+import com.isorensen.icpc.fragment.IcpcCategoryFragment;
+import com.isorensen.icpc.fragment.IcpcListFragment;
+import com.isorensen.icpc.fragment.PDFFragment;
 
 public class MainActivity extends AppCompatActivity {
+
+
+    public static final String MyPREFERENCES = "Landscap" ;
+    public static final String status = "status";
+    SharedPreferences sharedpreferences;
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        sharedpreferences = getSharedPreferences(MyPREFERENCES, Context.MODE_PRIVATE);
+
         AHBottomNavigation bottomNavigation = (AHBottomNavigation) findViewById(R.id.bottom_navigation);
 
 // Create items
@@ -60,7 +72,57 @@ public class MainActivity extends AppCompatActivity {
 // Add or remove notification for each item
 
 //        bottomNavigation.setNotification("", 1);
-        getSupportFragmentManager().beginTransaction().replace(R.id.contentContainer, new IcpcCategoryFragment()).commit();
+//
+
+
+//        SharedPreferences.Editor editor = sharedpreferences.edit();
+//        editor.putString(status, "gloas");
+//        editor.commit();
+
+
+
+        SharedPreferences prefs = getSharedPreferences(MyPREFERENCES, MODE_PRIVATE);
+        String status_string = prefs.getString(status, null);
+
+
+        if (status_string!=null){
+
+           if (status_string.equals("help")){
+
+
+               getSupportFragmentManager().beginTransaction().replace(R.id.contentContainer, new IcbcHelpFragment()).commit();
+
+           }
+            else if (status_string.equals("details")){
+
+               getSupportFragmentManager().beginTransaction().replace(R.id.contentContainer, new CategoryDetailsFragment()).commit();
+
+           }
+           else if (status_string.equals("category")){
+
+               getSupportFragmentManager().beginTransaction().replace(R.id.contentContainer, new IcpcCategoryFragment()).commit();
+
+           }
+
+           else if (status_string.equals("list")){
+
+               getSupportFragmentManager().beginTransaction().replace(R.id.contentContainer, new IcpcListFragment()).commit();
+
+           }
+           else if (status_string.equals("pdf")){
+
+               getSupportFragmentManager().beginTransaction().replace(R.id.contentContainer, new PDFFragment()).commit();
+
+           }
+
+        }
+        else {
+
+            getSupportFragmentManager().beginTransaction().replace(R.id.contentContainer, new IcpcCategoryFragment()).commit();
+
+        }
+
+
 // Set listeners
         bottomNavigation.setOnTabSelectedListener(new AHBottomNavigation.OnTabSelectedListener() {
             @Override
@@ -92,24 +154,36 @@ public class MainActivity extends AppCompatActivity {
         });
 
 
+
+
+
+
     }
 
     public void ReplaceFramgent (int position ,String title,String details)
     {
         if(position==1){
-            Bundle bundle = new Bundle();
-            bundle.putString("title", title);
-            bundle.putString("sub","This is sub");
-            bundle.putString("details",details);
+//            Bundle bundle = new Bundle();
+//            bundle.putString("title", title);
+//            bundle.putString("sub","This is sub");
+//            bundle.putString("details",details);
+            SharedPreferences.Editor editor = sharedpreferences.edit();
+            editor.putString("title", title);
+            editor.putString("details", details);
+            editor.commit();
 // set Fragmentclass Arguments
             CategoryDetailsFragment categoryDetailsFragment = new CategoryDetailsFragment();
-            categoryDetailsFragment.setArguments(bundle);
+//            categoryDetailsFragment.setArguments(bundle);
             getSupportFragmentManager().beginTransaction().replace(R.id.contentContainer, categoryDetailsFragment).commit();
         }
         else if(position==2){
             Bundle bundle = new Bundle();
             bundle.putString("details",details);
             bundle.putString("title",title);
+//            SharedPreferences.Editor editor = sharedpreferences.edit();
+////            editor.putString("title", title);
+//            editor.putString("path", details);
+//            editor.commit();
             PDFFragment pdfFragment = new PDFFragment();
             pdfFragment.setArguments(bundle);
             getSupportFragmentManager().beginTransaction().replace(R.id.contentContainer, pdfFragment).commit();
@@ -117,6 +191,9 @@ public class MainActivity extends AppCompatActivity {
 
 
     }
+
+
+
 
 
 }

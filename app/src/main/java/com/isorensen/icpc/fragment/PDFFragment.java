@@ -1,8 +1,9 @@
-package com.branislav.icpc.fragment;
+package com.isorensen.icpc.fragment;
 
 
 import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.content.res.AssetManager;
 import android.net.Uri;
 import android.os.Bundle;
@@ -14,7 +15,7 @@ import android.view.ViewGroup;
 import android.widget.ImageButton;
 import android.widget.TextView;
 
-import com.branislav.icpc.R;
+import com.isorensen.icpc.R;
 import com.joanzapata.pdfview.PDFView;
 import com.joanzapata.pdfview.listener.OnPageChangeListener;
 
@@ -36,6 +37,11 @@ public class PDFFragment extends Fragment implements OnPageChangeListener {
     int pageNumber;
     TextView title_view;
     ImageButton upload_button;
+
+    public static final String MyPREFERENCES = "Landscap" ;
+    public static final String status = "status";
+    SharedPreferences sharedpreferences;
+
     public PDFFragment() {
         // Required empty public constructor
     }
@@ -51,6 +57,14 @@ public class PDFFragment extends Fragment implements OnPageChangeListener {
         pageNumber=1;
 //        getActivity().getApplicationContext().getAssets().open("glossario.xml")
         pdf_view=inflater.inflate(R.layout.fragment_pdf, container, false);
+
+
+        sharedpreferences = getActivity().getSharedPreferences(MyPREFERENCES, Context.MODE_PRIVATE);
+        SharedPreferences.Editor editor = sharedpreferences.edit();
+        editor.putString(status, "pdf");
+        editor.commit();
+
+
         pdfView=(PDFView)pdf_view.findViewById(R.id.pdfview);
         title_view=(TextView)pdf_view.findViewById(R.id.pdf_details_textView);
         upload_button=(ImageButton)pdf_view.findViewById(R.id.upload_imageButton);

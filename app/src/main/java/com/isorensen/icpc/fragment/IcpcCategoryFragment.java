@@ -1,7 +1,9 @@
-package com.branislav.icpc.fragment;
+package com.isorensen.icpc.fragment;
 
 
+import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v7.widget.LinearLayoutManager;
@@ -15,13 +17,11 @@ import android.view.ViewGroup;
 import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.RadioGroup;
-import android.widget.Toast;
 
-import com.branislav.icpc.Adapter.CategoryAdapter;
-import com.branislav.icpc.InforActivity;
-import com.branislav.icpc.Model.Book;
-import com.branislav.icpc.Model.Data;
-import com.branislav.icpc.R;
+import com.isorensen.icpc.Adapter.CategoryAdapter;
+import com.isorensen.icpc.InforActivity;
+import com.isorensen.icpc.Model.Book;
+import com.isorensen.icpc.R;
 
 import org.xmlpull.v1.XmlPullParser;
 import org.xmlpull.v1.XmlPullParserException;
@@ -30,7 +30,6 @@ import org.xmlpull.v1.XmlPullParserFactory;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.ArrayList;
-import java.util.List;
 
 import info.hoang8f.android.segmented.SegmentedGroup;
 
@@ -47,6 +46,14 @@ public class IcpcCategoryFragment extends Fragment implements RadioGroup.OnCheck
     XmlPullParserFactory pullParserFactory;
     ArrayList<Book> products;
     String searchflag_string;
+
+
+    public static final String MyPREFERENCES = "Landscap" ;
+    public static final String status = "status";
+    SharedPreferences sharedpreferences;
+
+
+
     public IcpcCategoryFragment() {
         // Required empty public constructor
     }
@@ -59,6 +66,15 @@ public class IcpcCategoryFragment extends Fragment implements RadioGroup.OnCheck
         products = null;
         searchflag_string="";
         category_View=inflater.inflate(R.layout.fragment_icpc_category, container, false);
+
+
+        sharedpreferences = getActivity().getSharedPreferences(MyPREFERENCES, Context.MODE_PRIVATE);
+        SharedPreferences.Editor editor = sharedpreferences.edit();
+        editor.putString(status, "category");
+        editor.commit();
+
+
+
         infor_button=(ImageButton)category_View.findViewById(R.id.infore_imageButton);
         grout_button_historical=(SegmentedGroup)category_View.findViewById(R.id.segment_view);
         search_edittext=(EditText)category_View.findViewById(R.id.search_editText);
@@ -147,7 +163,31 @@ public class IcpcCategoryFragment extends Fragment implements RadioGroup.OnCheck
             booklist_list.setAdapter(ca);
         }
         else {
-            if (searchflag_string.equals("")){}
+            if (searchflag_string.equals("")){
+
+
+                for (int i=0;i<products.size();i++){
+
+                    if (products.get(i).tile.toLowerCase().contains(searchkey.toLowerCase())){
+
+                        Book book=new Book();
+                        book.tile=products.get(i).tile;
+                        book.description=products.get(i).description;
+                        bookslist.add(book);
+                        CategoryAdapter ca = new CategoryAdapter(bookslist,getActivity());
+                        booklist_list.setAdapter(ca);
+                    }
+                    else {
+                        CategoryAdapter ca = new CategoryAdapter(bookslist,getActivity());
+                        booklist_list.setAdapter(ca);
+                    }
+
+
+                }
+
+
+
+            }
             else {
 
 
